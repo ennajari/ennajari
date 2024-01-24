@@ -16,7 +16,7 @@
 - 💬 Ask me about **,Canva,Git&Github ,Responsive Web Design ,C (Programming Language) ,Web Development,Web Design,Logo Design, Graphic Design ,Database Management System (DBMS),Html5 , Css , Javascript, SQl , MySQL, PhpMyAdmin, UX , UI , Laravel ,**
 
 - 📫 How to reach me **abdellah.ennajari@edu.uiz.ac.ma**
-
+ - LinkedIn:[ [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/ennajari-abdellah/)
 - 📄 Know about my experiences [https://github.com/ennajari](https://github.com/ennajari)
 
 - ⚡ Fun fact **😊✌️😁**
@@ -62,28 +62,22 @@
   - Explored the beauty and allure of Boutaghrar through a dedicated website.
 
 ## 🚀 Skills
+
 - Artificial Intelligence (AI)
 - Java
 - Python (Programming Language)
 - JavaScript
 - Web Development
 - Graphic Design
+- 
+## 🏆 Certifications &  ## 📚 Articles
 
-## 📚 Articles
-- [Explore Boutaghrar](Your_Boutaghrar_Website_Link) - *Author Name*
-
-## 🏆 Certifications
 - Mathematics and Computer Science - Ibn Zohr University (Nov 2023)
 - Operating Systems II and Computer Networks - Ibn Zohr University (Nov 2023)
 - System Administration and Web Development - Ibn Zohr University (Nov 2023)
 - System Architecture and OO Programming & IT development - Ibn Zohr University (Nov 2023)
 - UML and Data Structures in C & Software Engineering - Ibn Zohr University (Nov 2023)
 - Web Developer Certificate - YouCode (Jul 2023)
-
-## 📫 Contact
-- Email: [Your_Email@example.com](mailto:your_email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Portfolio: [Your Portfolio Website](https://your-portfolio-website.com)
 
 Feel free to customize the template according to your preferences and add any additional information or sections you find relevant.
 
