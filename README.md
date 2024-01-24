@@ -16,7 +16,7 @@
 - 💬 Ask me about **,Canva,Git&Github ,Responsive Web Design ,C (Programming Language) ,Web Development,Web Design,Logo Design, Graphic Design ,Database Management System (DBMS),Html5 , Css , Javascript, SQl , MySQL, PhpMyAdmin, UX , UI , Laravel ,**
 
 - 📫 How to reach me **abdellah.ennajari@edu.uiz.ac.ma**
- - LinkedIn:[ [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/ennajari-abdellah/)
+ - LinkedIn:[ [Ennajari Abdellah](https://[www.linkedin.com/in/your-linkedin-profil](https://www.linkedin.com/in/ennajari-abdellah/)e)]
 - 📄 Know about my experiences [https://github.com/ennajari](https://github.com/ennajari)
 
 - ⚡ Fun fact **😊✌️😁**
