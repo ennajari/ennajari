@@ -79,8 +79,6 @@
 - UML and Data Structures in C & Software Engineering - Ibn Zohr University (Nov 2023)
 - Web Developer Certificate - YouCode (Jul 2023)
 
-Feel free to customize the template according to your preferences and add any additional information or sections you find relevant.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aennajari25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aennajari25" height="30" width="40" /></a>
