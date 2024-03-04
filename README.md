@@ -66,12 +66,8 @@
 - Web Developer Certificate - YouCode (Jul 2023)
 
 ## Connect with me
-- [Twitter](https://twitter.com/aennajari25)
 - [LinkedIn](https://www.linkedin.com/in/ennajari-abdellah)
-- [Facebook](https://fb.com/ennajari)
 - [Instagram](https://instagram.com/@abdellah_ennajarii)
-- [YouTube](https://www.youtube.com/c/@redhatennajari)
-- [Discord](https://discord.gg/abdellah_ennajari)
 
 ## Languages and Tools
 - Android
