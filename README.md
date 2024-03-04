@@ -70,7 +70,7 @@
 - Web Development
 - Graphic Design
 - 
-## 🏆 Certifications &  ## 📚 Articles
+## 🏆 Certifications & 📚 Articles
 
 - Mathematics and Computer Science - Ibn Zohr University (Nov 2023)
 - Operating Systems II and Computer Networks - Ibn Zohr University (Nov 2023)
