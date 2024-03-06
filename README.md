@@ -53,7 +53,7 @@
 - Artificial Intelligence (AI)
 - Java
 - Python (Programming Language)
-- JavaScript
+- C (Programming Language)
 - Web Development
 - Graphic Design
 
