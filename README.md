@@ -8,7 +8,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/aennajari25?logo=twitter&style=for-the-badge)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **DeepLearning (AI)**
 - 📝 I regularly write articles on [GitHub](https://github.com/ennajari)
 - 💬 Ask me about **Canva, Git & Github, Responsive Web Design, C (Programming Language), Web Development, Web Design, Logo Design, Graphic Design, Database Management System (DBMS), Html5, Css, Javascript, SQL, MySQL, PhpMyAdmin, UX, UI, Laravel**
 - 📫 How to reach me: abdellah.ennajari@edu.uiz.ac.ma
