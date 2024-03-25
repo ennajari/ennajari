@@ -17,7 +17,7 @@
 
 ## Education
 - **National School of Artificial Intelligence and Digitization (ENIAD)**
-  - Engineering degree in Artificial Intelligence (Dec 2023 - Jul 2026)
+  - Engineering degree in Artificial Intelligence (Dec 2023 - ****)
   - Activities and societies: Mohamed I University
 - **YouCode**
   - Certificate BootCamp in Web Development (Jul 2023 - Aug 2023)
