@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Ennajari Abdellah
 
-[![coding](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)](https://storyset.com/illustration/chat-bot/amico/animate?share=84293)
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=ennajari&label=Profile%20views&color=0e75b6&style=flat)
 
