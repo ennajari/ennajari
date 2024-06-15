@@ -65,7 +65,7 @@
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ennajari-abdellah)
-- [Instagram](https://instagram.com/@abdellah_ennajarii)
+- [WhatsApp](https://wa.link/bniwpl)
 
 ## Languages and Tools
 <p align="left"> 
