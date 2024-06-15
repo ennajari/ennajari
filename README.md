@@ -1,5 +1,5 @@
 # Hi! 👋 I'm Ennajari Abdellah
-![Chat bot.gif](Chat bot.gif)
+![Chat bot](https://github.com/ennajari/ennajari/raw/main/Chat%20bot.gif)
 ![Profile views](https://komarev.com/ghpvc/?username=ennajari&label=Profile%20views&color=0e75b6&style=flat)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ennajari)
