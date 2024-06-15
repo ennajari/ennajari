@@ -1,5 +1,12 @@
 # Hi! 👋 I'm Ennajari Abdellah
-<script type='text/javascript'>document.addEventListener('DOMContentLoaded', function () {window.setTimeout(document.querySelector('svg').classList.add('animated'),1000);})</script>
+<script type='text/javascript'>
+  document.addEventListener('DOMContentLoaded', function () {
+    window.setTimeout(function() {
+      document.querySelector('svg').classList.add('animated');
+    }, 1000);
+  });
+</script>
+
 ![Profile views](https://komarev.com/ghpvc/?username=ennajari&label=Profile%20views&color=0e75b6&style=flat)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ennajari)
