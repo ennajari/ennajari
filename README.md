@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Ennajari Abdellah
 
-![Profile Image][[(your_profile_image_url_here)](https://github.com/ennajari/ennajari/blob/main/Chat%20bot%20(2).gif)]
+![Profile Image](https://github.com/ennajari/ennajari/blob/main/Chat%20bot%20(2).gif)
 
 [![GitHub followers](https://img.shields.io/github/followers/ennajari?style=social)](https://github.com/ennajari)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ennajari?style=social)](https://twitter.com/ennajari)
