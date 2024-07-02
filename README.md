@@ -51,7 +51,7 @@
 
 ## 🏆 Projects
 
-### AI Image Classification (2023)
+### AI Image Classification (2024)
 - Designed a deep learning model for automatic image classification
 - Utilized Convolutional Neural Networks (CNN) with TensorFlow and Keras
 - Achieved 95% accuracy on a test dataset of 10,000 images
