@@ -1,71 +1,70 @@
-# Hi! 👋 I'm Ennajari Abdellah
-![Chat bot](https://github.com/ennajari/ennajari/blob/main/Chat%20bot%20(2).gif)
-![Profile views](https://komarev.com/ghpvc/?username=ennajari&label=Profile%20views&color=0e75b6&style=flat)
+# Hi! 👋 I'm Abdellah Ennajari
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ennajari)
+## Artificial Intelligence Engineering Student
 
-![Twitter Follow](https://img.shields.io/twitter/follow/aennajari25?logo=twitter&style=for-the-badge)
+* 🌱 I'm currently pursuing an **Engineering Degree in Artificial Intelligence** at ENIAD Berkane
+* 💻 Passionate about AI, machine learning, and software development
+* 📝 I regularly write articles on GitHub
+* 🎨 Freelance graphic designer with experience in creating logos, business cards, and marketing materials
 
-- 🌱 I'm currently learning **Deep Learning (AI)**
-- 📝 I regularly write articles on [GitHub](https://github.com/ennajari)
-- 💬 Ask me about **Canva, Git & Github, Responsive Web Design, C (Programming Language), Web Development, Web Design, Logo Design, Graphic Design, Database Management System (DBMS), HTML5, CSS, JavaScript, SQL, MySQL, phpMyAdmin, UX, UI, Laravel**
-- 📫 How to reach me: abdellah.ennajari@edu.uiz.ac.ma
-- LinkedIn: [Ennajari Abdellah](https://www.linkedin.com/in/ennajari-abdellah/)
-- 📍 Location: Tinghir, Drâa-Tafilalet, Morocco
+### 📫 How to reach me:
+- Email: abdellah.ennajari.23@ump.ac.ma
+- LinkedIn: [Ennajari Abdellah](https://www.linkedin.com/in/ennajari-abdellah)
+- GitHub: [@ennajari](https://github.com/ennajari)
+- 📍 Location: Berkane, Morocco
 
 ## Education
-- **National School of Artificial Intelligence and Digitization (ENIAD)**
-  - Engineering degree in Artificial Intelligence (Dec 2023 - ****)
-  - Activities and societies: Mohamed I University
-- **YouCode**
-  - Certificate BootCamp in Web Development (Jul 2023 - Aug 2023)
-- **Université Ibn Zohr**
-  - Bachelor's degree in Computer Science (Nov 2022 - Jun 2023)
-  - DEUG in Mathematics and Computer Science (Oct 2021 - Jun 2022)
-  - DEUST in Mathematics and Computer Science (Oct 2020 - May 2021)
 
-## Experience
-### Canva 🎨
-- **Graphic Designer** (Apr 2022 - Present)
-  - Thriving as a dynamic individual in design and technology.
-  - Proficient in Canva, transforming concepts into captivating visuals.
-  - Simultaneously, a dedicated student in mathematics and computer science.
-  
-### YouCode Maroc 🚀
-- **Frontend Web Developer** (Jul 2023 - Aug 2023)
-  - Dive into my digital portfolio, a fusion of math and computer science journey.
-  - Crafted with HTML, CSS, and JS, blending creativity and tech skills.
-  - YouCode bootcamp grad, merging elegant design and functionality.
-  
-### Université Ibn Zohr 🌐
-- **Realization of Web Application** (May 2023 - Jul 2023)
-  - Crafted a web application for efficient time management using Laravel.
-  - Optimized schedules through cutting-edge genetic algorithms.
-  - Implemented a seamless admin panel for streamlined control.
-  
-### Professional Development 💼
-- **Career Break** (Apr 2021)
-  - Explored the beauty and allure of Boutaghrar through a dedicated website.
+* **National School of Artificial Intelligence and Digitization (ENIAD)**
+   * Engineering degree in Artificial Intelligence (2023 - Present)
+   * Mohamed I University
+* **Université Ibn Zohr**
+   * Bachelor's degree in Mathematical Sciences, Computer Science and Applications (2022 - 2023)
+   * Associate Degree in Mathematical Sciences, Computer Science and Applications (2020 - 2022)
+* **El Ouroud High School**
+   * High School Diploma in Physical and Chemical Sciences (2019 - 2020)
 
-## Skills
-- Artificial Intelligence (AI)
-- Java
-- Python (Programming Language)
-- C (Programming Language)
-- Web Development
-- Graphic Design
+## Technical Skills
 
-## Certifications & Articles
-- Mathematics and Computer Science - Ibn Zohr University (Nov 2023)
-- Operating Systems II and Computer Networks - Ibn Zohr University (Nov 2023)
-- System Administration and Web Development - Ibn Zohr University (Nov 2023)
-- System Architecture and OO Programming & IT development - Ibn Zohr University (Nov 2023)
-- UML and Data Structures in C & Software Engineering - Ibn Zohr University (Nov 2023)
-- Web Developer Certificate - YouCode (Jul 2023)
+* **Programming Languages:** Java, C, C++, Python, JavaScript, PHP
+* **Web Development:** HTML5, CSS3, React.js, Node.js, Laravel
+* **Databases:** SQL, MySQL, Oracle SQL Developer, PhpMyAdmin
+* **Artificial Intelligence:** TensorFlow, PyTorch, Genetic Algorithms, Computer Vision
+* **Development Tools:** Git, GitHub, Jupyter, Anaconda, Visual Studio Code
+* **Methodologies:** UML, Merise, Agile (Scrum)
+* **Graphic Design:** Adobe Creative Suite, Canva, Figma
 
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/ennajari-abdellah)
-- [WhatsApp](https://wa.link/bniwpl)
+## Projects
+
+### AI Image Classification
+* Designed a deep learning model for automatic image classification
+* Utilized Convolutional Neural Networks (CNN) with TensorFlow and Keras
+* Achieved 95% accuracy on a test dataset of 10,000 images
+
+### Timetable Management Web Application
+* Developed a web application for timetable management using Laravel and MySQL
+* Implemented genetic algorithms to optimize timetable generation
+* Created a responsive user interface with Bootstrap and JavaScript
+
+## Additional Training
+
+* Test of French Language Proficiency, Campus France, Marrakech (2022)
+* Web Development BootCamp, YouCode Youssoufia (2022)
+
+## Languages
+
+* Arabic (Native)
+* French (Upper Intermediate)
+* English (Intermediate)
+
+## Interests
+
+* AI technology watch
+* Participation in hackathons
+* Contributing to open-source projects
+* Active member of the AI student association at ENIAD Berkane
+
+Feel free to reach out if you want to collaborate on projects or discuss AI, web development, or graphic design!
 
 ## Languages and Tools
 <p align="left"> 
