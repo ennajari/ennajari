@@ -7,13 +7,24 @@
 
 ## 🎓 Artificial Intelligence Engineering Student
 
-🚀 Passionate first-year AI Engineering student at ENIAD Berkane, with a strong foundation in mathematics and computer science.
+🚀 Passionate AI Engineering student at ENIAD Berkane, with a strong foundation in mathematics and computer science.
 
 🌱 Currently exploring the fascinating world of AI, machine learning, and data analysis.
 
 💡 Always eager to learn and apply cutting-edge technologies to solve real-world problems.
 
 📫 Reach me at: abdellah.ennajari.23@ump.ac.ma | 📞 +212 6 5579-8315 | 📍 Berkane, Morocco
+
+## 🎯 Education
+
+- 🎓 **Engineering Degree in Artificial Intelligence** (2023-Present)
+  - ENIAD Berkane
+- 🎓 **Bachelor's Degree in Mathematical Sciences, Computer Science and Applications** (2022-2023)
+  - Ibn Zohr University, Ouarzazate
+- 🎓 **Associate Degree in Mathematical Sciences, Computer Science and Applications** (2020-2022)
+  - Ibn Zohr University, Ouarzazate
+- 🎓 **High School Diploma in Physical and Chemical Sciences** (2019-2020)
+  - El Ouroud High School, Kelaat M'gouna
 
 ## 🛠️ Skills & Technologies
 
@@ -94,4 +105,6 @@ I'm always excited to collaborate on innovative projects and discuss new ideas i
 ---
 
 💡 *"The only way to do great work is to love what you do."* - Steve Jobs
-https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg
+
+![GitHub Snake Light](https://github.com/ennajari/ennajari/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/ennajari/ennajari/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
