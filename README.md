@@ -104,8 +104,5 @@ I'm always excited to collaborate on innovative projects and discuss new ideas i
 
 ---
 
-💡 *"The only way to do great work is to love what you do."* - Steve Jobs
-
-![GitHub Snake Light](https://github.com/ennajari/ennajari/blob/main/.github/workflows/snake.yml)
-![GitHub Snake dark](https://github.com/ennajari/ennajari/blob/main/.github/workflows/snake.yml)
+💡 ***"The only way to do great work is to love what you do."*** - Steve Jobs
 
