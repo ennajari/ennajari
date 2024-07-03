@@ -106,5 +106,6 @@ I'm always excited to collaborate on innovative projects and discuss new ideas i
 
 💡 *"The only way to do great work is to love what you do."* - Steve Jobs
 
-![GitHub Snake Light](https://github.com/ennajari/ennajari/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/ennajari/ennajari/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/ennajari/ennajari/blob/main/.github/workflows/snake.yml)
+![GitHub Snake dark](https://github.com/ennajari/ennajari/blob/main/.github/workflows/snake.yml)
+
