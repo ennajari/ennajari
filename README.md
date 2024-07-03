@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Abdellah Ennajari
+# Hi there! I'm Abdellah Ennajari 👋
 
 ![Profile Image](https://github.com/ennajari/ennajari/blob/main/Chat%20bot%20(2).gif)
 
@@ -7,13 +7,15 @@
 
 ## 🎓 Artificial Intelligence Engineering Student
 
-🌱 I'm currently pursuing an **Engineering Degree in Artificial Intelligence** at ENIAD Berkane, with a strong background in mathematics and computer science.
+🚀 Passionate first-year AI Engineering student at ENIAD Berkane, with a strong foundation in mathematics and computer science.
 
-💻 Passionate about AI, machine learning, data analysis, and web development.
+🌱 Currently exploring the fascinating world of AI, machine learning, and data analysis.
 
-📫 How to reach me: abdellah.ennajari.23@ump.ac.ma | 📍 Berkane, Morocco
+💡 Always eager to learn and apply cutting-edge technologies to solve real-world problems.
 
-## 🚀 Skills
+📫 Reach me at: abdellah.ennajari.23@ump.ac.ma | 📞 +212 6 5579-8315 | 📍 Berkane, Morocco
+
+## 🛠️ Skills & Technologies
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
@@ -49,17 +51,19 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 🏆 Projects
+## 🏆 Featured Projects
 
-### AI Image Classification (2024)
-- Designed a deep learning model for automatic image classification
+### 1. AI Image Classification (2024)
+- Developed a deep learning model for automatic image classification
 - Utilized Convolutional Neural Networks (CNN) with TensorFlow and Keras
 - Achieved 95% accuracy on a test dataset of 10,000 images
+- Implemented transfer learning techniques for optimized performance
 
-### Timetable Management Web Application (2023)
-- Developed a web application for efficient time management using Laravel and MySQL
-- Implemented genetic algorithms to optimize timetable generation
-- Created a responsive user interface with Bootstrap and JavaScript
+### 2. Timetable Management Web Application (2023)
+- Built a full-stack web application using Laravel and MySQL
+- Implemented genetic algorithms for optimized timetable generation
+- Created a responsive UI with Bootstrap and JavaScript
+- Applied Agile methodologies and version control with Git
 
 ## 📈 GitHub Stats
 
@@ -69,7 +73,24 @@
 
 ## 🌟 Let's Connect!
 
-I'm always interested in collaborating on innovative projects and discussing new ideas in AI, web development, or graphic design. Feel free to reach out!
+I'm always excited to collaborate on innovative projects and discuss new ideas in AI, web development, or graphic design. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ennajari-abdellah)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ennajari)
+
+## 🌐 Languages
+- Arabic (Native)
+- French (Upper Intermediate)
+- English (Intermediate)
+
+## 🏅 Certifications
+- Test of French Language Proficiency, Campus France, Marrakech (2022)
+- Web Development BootCamp, YouCode Youssoufia (2022)
+
+## 💼 Experience
+- Freelance Graphic Designer (2022-Present)
+- Full Stack Web Developer, Final Year Project (March 2023-May 2023)
+
+---
+
+💡 *"The only way to do great work is to love what you do."* - Steve Jobs
