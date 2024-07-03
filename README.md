@@ -94,3 +94,4 @@ I'm always excited to collaborate on innovative projects and discuss new ideas i
 ---
 
 💡 *"The only way to do great work is to love what you do."* - Steve Jobs
+https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg
