@@ -1,6 +1,6 @@
 # Hi there! I'm Abdellah Ennajari 👋
 
-![Profile Image](https://github.com/ennajari/ennajari/blob/main/Chat%20bot%20(2).gif)
+![Profile Image](https://github.com/ennajari/ennajari/blob/main/Black%20and%20White%20Minimalist%20Elegant%20AI%20Best%20Software%20YouTube%20Thumbnail%20(1).gif)
 
 [![GitHub followers](https://img.shields.io/github/followers/ennajari?style=social)](https://github.com/ennajari)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ennajari-abdellah)
