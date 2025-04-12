@@ -9,7 +9,7 @@
 
 ## 🎓 Artificial Intelligence Engineering Student | ENIAD Berkane
 
-I'm **Abdellah Ennajari**, a passionate and motivated **AI engineering student** in my second year at **ENIAD (École Nationale d’Intelligence Artificielle et de Digital)** in Berkane, Morocco. I specialize in **Machine Learning**, **Deep Learning**, and **Computer Vision**, and I'm currently looking for a **2-3 month internship** starting **July 2025** to apply my skills in real-world AI projects.
+I'm **Abdellah Ennajari**, a passionate and motivated **AI engineering student** in my second year at **ENIAD (École Nationale d’Intelligence Artificielle et de Digital)** in Berkane, Morocco. I specialize in **Machine Learning**, **Deep Learning**, and **Computer Vision**.
 
 ---
 
