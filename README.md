@@ -42,7 +42,7 @@ I'm **Abdellah Ennajari**, a passionate and motivated **AI engineering student**
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZhdHBvOXVsa3oyZnVwdWZ6NjJwemIwdHA2MzVhMG9peXJ2MHJ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </div>
 
 ```python
@@ -82,7 +82,7 @@ me.say_hi()
 ## 🔍 Current Focus
 
 <div align="center">
-  <!-- Animated Mindmap for Current Focus -->
+  <!-- Animated Mindmap for Current Focus - Adding a GIF representation -->
   <img src="https://github.com/ennajari/ennajari/blob/main/mindmap-animation.gif" alt="AI Focus Areas" width="700">
 </div>
 
@@ -171,7 +171,7 @@ mindmap
 <img src="https://img.shields.io/badge/Accuracy-97%25-success">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZpOXFlaGE2MjB2b2IydTV5cHQ3ZHR5cW5kdTF6cGFqcW9kZmNvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUM3IgJBX2as9y/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9y/giphy.gif" width="300">
 </div>
 
 - Developed a high-accuracy 3D dental classification pipeline using **ConvNets** and **PointNet++**
@@ -204,7 +204,7 @@ graph LR
 <img src="https://img.shields.io/badge/Improvement-40%25-success">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RjemQyYms5MXg5dmllN2l5YnM0Y3lpczdqM3k5MTJpMnA2ZGVoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRfNA1p0rvhMSvS/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="300">
 </div>
 
 - Built an interactive product visualization system using **deep learning** and **WebGL**
@@ -237,7 +237,7 @@ graph TD
 <img src="https://img.shields.io/badge/Status-Active-success">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExandzOGcxbTIweDJleTE5NDNyajRneHg5NXZlMTI0ZG1qeHNidTBleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 </div>
 
 - Developing an AI assistant that can answer student questions about course materials
@@ -440,21 +440,21 @@ sequenceDiagram
     <tr>
       <td width="33%" align="center">
         <a href="https://medium.com/@ennajari">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHppdmpwMHc5N2hxODY0Zjh6MHRnZm8wZjhtNXViOGRrZ2VmcHl6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IylQoMkcbZUbtKw/giphy.gif" width="100%">
+          <img src="https://media.giphy.com/media/l0IylQoMkcbZUbtKw/giphy.gif" width="100%">
           <br>
           <strong>Building Explainable Computer Vision Systems for Healthcare</strong>
         </a>
       </td>
       <td width="33%" align="center">
         <a href="https://medium.com/@ennajari">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZxZ2hzNGdmZ2J1N213ZGE2cHd0Y3N5ZzNhenl1NHltOXYwN3NsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%">
+          <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%">
           <br>
           <strong>Diffusion Models: A Practical Implementation Guide</strong>
         </a>
       </td>
       <td width="33%" align="center">
         <a href="https://medium.com/@ennajari">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemo2YjdxY3JhNTZkMHcwY2V4dnA3OG41Z29kbGVpbXYyYTAzNHN6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QN6NnhbgfOpoI/giphy.gif" width="100%">
+          <img src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" width="100%">
           <br>
           <strong>Advanced Data Augmentation Techniques for 3D Vision</strong>
         </a>
@@ -479,56 +479,282 @@ sequenceDiagram
     <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-365%20Data%20Science%20(2024)-5C5543?style=for-the-badge"></a>
     <a href="#"><img src="https://img.shields.io/badge/Web%20Development-YouCode%20Maroc%20(2023)-FF0000?style=for-the-badge"></a>
     <a href="#"><img src="https://img.shields.io/badge/Data%20Analysis-Udemy%20(2025)-A435F0?style=for-the-badge&logo=udemy&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/AWS%20Machine%20Learning-AWS%20(2025)-232F3E?style=for-the-badge
-</details>
-
-<details>
-<summary><b>🌀 360° Product Viewer (Academic Project)</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Domain-3D%20Vision-green">
-<img src="https://img.shields.io/badge/Tech-PyVista%2C%20TensorFlow-orange">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aCWRxXpYw1h1Uuk/giphy.gif" width="300">
+    <a href="#"><img src="https://img.shields.io/badge/AWS%20Machine%20Learning-AWS%20(2025)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+  </div>
 </div>
 
-- Designed an end-to-end pipeline to generate 360° interactive product views from 2D images
-- Combined deep learning and mesh generation to build immersive previews for e-commerce
-- Used **image stitching**, **depth estimation**, and **PyVista** for rendering
-- Deployed the viewer using a web frontend built with HTML5 + JS + Pannellum
+<!-- Certification Timeline -->
+```mermaid
+timeline
+  title Continuous Learning Journey
+    2022 : Web Development Certification
+         : Python for Data Science
+    2023 : Machine Learning Fundamentals
+         : Computer Vision Specialization
+    2024 : Advanced Deep Learning
+         : TensorFlow Certification
+    2025 : AWS Machine Learning
+         : MLOps Professional
+```
+
+---
+
+<a id="connect-with-me"></a>
+## 📫 Connect With Me
+
+<div align="center">
+  <!-- Animated Connect Section with enhanced visuals -->
+  <img src="https://github.com/ennajari/ennajari/blob/main/connect-animation.gif" alt="Connect Animation" width="650">
+  
+  <a href="https://linkedin.com/in/ennajari-abdellah" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ennajari" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://medium.com/@ennajari" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="mailto:abdellahennajari2018@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://twitter.com/ennajari_ai" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
+
+<div align="center">
+  <!-- Final animated banner -->
+  <img src="https://github.com/ennajari/ennajari/blob/main/thank-you-animation.gif" alt="Thanks for visiting" width="800">
+  
+  <h3>Thanks for visiting my profile! Let's connect and build something amazing together. 🚀</h3>
+</div>
+
+<!--
+**ennajari/ennajari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+
+<a id="achievements"></a>
+## 🏆 Achievements & Awards
+
+<div align="center">
+  <!-- Animated Awards Section -->
+  <img src="https://github.com/ennajari/ennajari/blob/main/awards-animation.gif" alt="Awards Animation" width="700">
+</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/2024-blue?style=for-the-badge" alt="2024">
+      <br>
+      <strong>2nd Place in Google Developer Groups AI Challenge</strong>
+      <br>
+      <em>Built an innovative solution for sustainable development using computer vision</em>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/2023-purple?style=for-the-badge" alt="2023">
+      <br>
+      <strong>National AI Hackathon Finalist</strong>
+      <br>
+      <em>Created an AI-driven healthcare solution for early disease detection</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/2023-green?style=for-the-badge" alt="2023">
+      <br>
+      <strong>ENIAD Excellence Scholarship</strong>
+      <br>
+      <em>Awarded for outstanding academic performance and research contributions</em>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/2022-orange?style=for-the-badge" alt="2022">
+      <br>
+      <strong>Best Student Project in AI Innovation</strong>
+      <br>
+      <em>Recognized for developing a novel approach to computer vision problems</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a id="publications"></a>
+## 📝 Publications & Research
+
+<div align="center">
+  <!-- Research Visualization -->
+  <img src="https://github.com/ennajari/ennajari/blob/main/research-animation.gif" alt="Research Visualization" width="700">
+</div>
+
+<details>
+<summary><b>🔬 Academic Papers & Preprints</b></summary>
+<br>
+
+<div align="center">
+  <!-- Publication Cards -->
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <strong>Advancing 3D Dental Classification Through Multi-view Representation Learning</strong>
+        <br>
+        <em>Submitted to International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025</em>
+        <br>
+        <img src="https://img.shields.io/badge/Status-Under%20Review-yellow?style=flat-square">
+      </td>
+      <td width="50%" align="center">
+        <strong>Efficient Point Cloud Processing for Resource-Constrained Environments</strong>
+        <br>
+        <em>Technical Report, ENIAD Research Lab, 2024</em>
+        <br>
+        <img src="https://img.shields.io/badge/Status-Published-green?style=flat-square">
+      </td>
+    </tr>
+  </table>
+</div>
+
+```mermaid
+graph LR
+    A[Raw 3D Data] --> B[Pre-processing]
+    B --> C[Feature Extraction]
+    C --> D[Multi-view Fusion]
+    D --> E[Classification]
+    
+    style A fill:#f9d5e5,stroke:#ff69b4
+    style C fill:#d5e5f9,stroke:#4169e1
+    style E fill:#d5f9e5,stroke:#00cc66
+```
 
 </details>
 
 <details>
-<summary><b>🧠 Multi-modal Chatbot (In Progress)</b></summary>
+<summary><b>🧪 Ongoing Research</b></summary>
 <br>
-<img src="https://img.shields.io/badge/Domain-NLP%20%26%20Vision-purple">
-<img src="https://img.shields.io/badge/Framework-Transformers-yellow">
 
-- Building a chatbot that understands both text and images using vision-language models
-- Leveraging **CLIP**, **BLIP**, and **transformers-based** architectures
-- Trained on a custom dataset with mixed media inputs for real-time interaction
+<div align="center">
+  <h4>Current Research Interests</h4>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Primary-blue?style=for-the-badge">
+        <br>
+        <strong>Foundation Models for 3D Medical Imaging</strong>
+        <br>
+        <em>Developing transformer-based architectures for dental and medical 3D data analysis</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Secondary-purple?style=for-the-badge">
+        <br>
+        <strong>Efficient Neural Rendering for Interactive Applications</strong>
+        <br>
+        <em>Optimizing real-time 3D rendering techniques for product visualization</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Collaboration-green?style=for-the-badge">
+        <br>
+        <strong>Responsible AI: Fairness in Medical Diagnosis Systems</strong>
+        <br>
+        <em>Investigating bias mitigation strategies in healthcare AI applications</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 </details>
 
 ---
 
-<a id="skills--technologies"></a>
-## 🛠️ Skills & Technologies
+<a id="community"></a>
+## 👥 Community Involvement & Teaching
 
-```yaml
-Languages:
-  - Python
-  - C++
-  - Java
-  - JavaScript
-  - HTML/CSS
-  - Bash
-Frameworks & Libraries:
-  - TensorFlow, Keras, PyTorch, OpenCV, Scikit-learn
-  - PyVista, Matplotlib, NumPy, Pandas, Seaborn
-  - Flask, FastAPI, Streamlit
-Tools & Platforms:
-  - Git, GitHub, Docker, Jupyter, VSCode, Anaconda
-  - Google Colab, Kaggle, Hugging Face, AWS (basic)
+<div align="center">
+  <!-- Community Animation -->
+  <img src="https://github.com/ennajari/ennajari/blob/main/community-animation.gif" alt="Community Animation" width="650">
+  
+  ```mermaid
+  mindmap
+    root((Community\nEngagement))
+      Mentorship
+        AI Club Lead at ENIAD
+        Python Tutor
+        Hackathon Coach
+      Open Source
+        TensorFlow Contributor
+        HuggingFace Documentation
+        PyTorch Issues & PRs
+      Events
+        AI Workshops
+        Technical Talks
+        Code Sprints
+  ```
+</div>
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h4>Workshop Materials</h4>
+      <a href="https://github.com/ennajari/ai-workshops">
+        <img src="https://img.shields.io/badge/GitHub-AI%20Workshops%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <p><em>A collection of tutorials, notebooks, and resources from workshops I've conducted</em></p>
+    </td>
+    <td width="50%" align="center">
+      <h4>Teaching Assistant</h4>
+      <img src="https://img.shields.io/badge/ENIAD-Computer%20Vision%20Course-4285F4?style=for-the-badge">
+      <p><em>Supporting first-year students with practical AI development skills and project guidance</em></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a id="roadmap"></a>
+## 🗺️ Learning Roadmap (2025-2026)
+
+<div align="center">
+  <!-- Learning Roadmap Visualization -->
+  <img src="https://github.com/ennajari/ennajari/blob/main/roadmap-animation.gif" alt="Learning Roadmap" width="700">
+</div>
+
+```mermaid
+gantt
+    title My Learning Journey
+    dateFormat  YYYY-MM
+    section Technical Skills
+    AWS Certification             :2025-01, 3M
+    MLOps Professional            :2025-03, 4M
+    Rust for ML                   :2025-06, 3M
+    section Research Areas
+    NeRF & Novel View Synthesis   :2025-01, 6M
+    Multi-modal Foundation Models :2025-04, 6M
+    Reinforcement Learning        :2025-09, 4M
+    section Projects
+    3D Medical Analysis Platform  :2025-02, 5M
+    Open Source Contribution      :2025-01, 12M
+    Research Paper Publication    :2025-06, 6M
+```
+
+<div align="center">
+  <blockquote>
+    <p><i>"The expert in anything was once a beginner."</i></p>
+    <footer>- Helen Hayes</footer>
+  </blockquote>
+</div>
+
+---
+
+<div align="center">
+  <!-- Final Note -->
+  <img src="https://github.com/ennajari/ennajari/blob/main/footer-banner.gif" alt="Footer Banner" width="800">
+  
+  <h3>Feel free to reach out for collaborations, research opportunities, or just to chat about AI! 💡</h3>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%">
+</div>
+
+<!-- This README is continuously evolving as I learn and grow in my AI journey -->
