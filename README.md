@@ -107,12 +107,12 @@ mindmap
 
   ```mermaid
 pie showData
-    title Skills Breakdown: Expertise in AI/ML
-    "Deep Learning (CNN, RNN)" : 35
-    "Computer Vision (3D Recognition, Image Processing)" : 30
-    "NLP (Text Analysis, Language Models)" : 20
-    "Generative AI (GANs, Diffusion Models)" : 40
-    "MLOps (Deployment, CI/CD, Monitoring)" : 15
+    title Skills Breakdown: AI/ML Expertise
+    "Deep Learning (CNN, RNN, LSTM, GRU)" : 25
+    "Computer Vision (3D Recognition, Image Processing, ResNet, YOLO)" : 20
+    "NLP (Text Analysis, Language Models, Embeddings, RoBERTa, XLNet)" : 20
+    "Generative AI (GANs, Diffusion Models, LLMs, GPT, DALL·E)" : 20
+    "MLOps (Deployment, CI/CD, Monitoring, MLflow, Docker, Kubernetes)" : 15
  ```
   
 </div>
@@ -156,7 +156,7 @@ timeline
 <img src="https://img.shields.io/badge/Models-PointNet++_&_3D_ConvNets-orange">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZpOXFlaGE2MjB2b2IydTV5cHQ3ZHR5cW5kdTF6cGFqcW9kZmNvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUM3IgJBX2as9y/giphy.gif" width="300">
+  <img src="https://github.com/ennajari/ennajari/blob/main/200.gif" width="300">
 </div>
 
 **Technical Details:**
@@ -364,6 +364,7 @@ graph TD
 
 <div align="center">
   <!-- AI Skills Specialization Chart -->
+  
   ```mermaid
 pie showData
     title "AI Expertise Distribution"
@@ -373,6 +374,7 @@ pie showData
     "MLOps & Deployment" : 15
     "Research & Development" : 10
  ```
+  
 </div>
 
 <a id="ai-research"></a>
