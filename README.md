@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Abdellah Ennajari
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there! I'm Abdellah Ennajari
 
 <div align="center">
   <img src="https://github.com/ennajari/ennajari/blob/main/Engineer.gif" alt="Profile Banner" width="700">
