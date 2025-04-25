@@ -5,21 +5,22 @@
 
   <!-- Typing Animation -->
 <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=AI+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Specialist;Generative+AI+Explorer;Natural+Language+Processing+Fan;LLM+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Learning+Engineer;Computer+Vision+Specialist;Generative+AI+Researcher;LLM+Prompt+Engineer;Multimodal+Systems+Developer;AI+Research+Enthusiast" alt="Typing SVG" />
 </a>
   
   [![GitHub followers](https://img.shields.io/github/followers/ennajari?style=social)](https://github.com/ennajari)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ennajari-abdellah)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ennajari.github.io)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdellahennajari2018@gmail.com)
+  [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 </div>
 
 <p align="center">
   <a href="#about-me">About Me</a> •
-  <a href="#current-focus">Current Focus</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#skills--technologies">Skills</a> •
-  <a href="#latest-blog-posts">Blog</a> •
+  <a href="#ai-specialization">AI Specialization</a> •
+  <a href="#ai-projects">AI Projects</a> •
+  <a href="#technical-skills">Technical Skills</a> •
+  <a href="#ai-research">Research</a> •
   <a href="#github-stats">Stats</a> •
   <a href="#certifications">Certifications</a> •
   <a href="#connect-with-me">Connect</a>
@@ -27,8 +28,8 @@
 
 ---
 
-## 🎓 Artificial Intelligence Engineering Student | ENIAD Berkane
-I’m **Abdellah Ennajari**, an enthusiastic and driven** AI Engineering student** currently in my second year at **ENIAD** (École Nationale d'Intelligence Artificielle et de Digital) in Berkane, Morocco. I specialize in **Machine Learning, Deep Learning, and Computer Vision**, and I am passionate about **Generative AI, Natural Language Processing (NLP), and Large Language Models (LLMs)**. I am also deeply interested in MLOps and Responsible AI, and I strive to contribute to developing ethical and innovative AI solutions.
+## 🎓 AI & Deep Learning Engineer | ENIAD Berkane
+I'm **Abdellah Ennajari**, a dedicated **AI Engineer** currently pursuing my degree at **ENIAD** (École Nationale d'Intelligence Artificielle et de Digital) in Berkane, Morocco. I specialize in developing advanced **Deep Learning models**, **Computer Vision systems**, and **Generative AI applications**. My expertise encompasses the complete AI development lifecycle, from data preprocessing and feature engineering to model deployment and monitoring.
 
 
 <div align="center">
@@ -43,371 +44,365 @@ I’m **Abdellah Ennajari**, an enthusiastic and driven** AI Engineering student
 <a id="about-me"></a>
 ## 🚀 About Me
 
-
-
 ```python
 class AbdellahEnnajari:
     def __init__(self):
         self.name = "Abdellah Ennajari"
-        self.role = "AI Engineering Student"
+        self.role = "AI & Deep Learning Engineer"
         self.education = "ENIAD (École Nationale d'Intelligence Artificielle et de Digital), Berkane"
         self.location = "Morocco"
-        self.languages = ["Python", "TensorFlow", "PyTorch", "OpenCV", "Keras", "NumPy", "Pandas"]
-        self.research_interests = ["Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing", "Generative AI", "3D Vision", "Responsible AI", "MLOps"]
-        self.hobbies = ["Competitive Programming", "Open-Source Contribution", "AI Research", "Hiking"]
+        self.tech_stack = {
+            "deep_learning": ["TensorFlow", "PyTorch", "JAX", "Keras"],
+            "computer_vision": ["OpenCV", "PyTorch3D", "Detectron2", "MediaPipe", "Kornia"],
+            "nlp": ["Transformers", "Langchain", "SpaCy", "NLTK", "HuggingFace"],
+            "generative_ai": ["Diffusion Models", "GANs", "Stable Diffusion", "RAG"],
+            "mlops": ["Docker", "Kubernetes", "MLflow", "DVC", "Weights & Biases"],
+            "3d_vision": ["Open3D", "PyTorch3D", "NeRF", "Point Cloud Processing", "3D Reconstruction"]
+        }
+        self.research_interests = ["Foundation Models", "Multimodal AI", "3D Vision", "Responsible AI", "MLOps"]
     
-    def say_hi(self):
-        print(f"Hello, I'm {self.name}. Thanks for dropping by! Let's collaborate and build something innovative in AI!")
+    def current_focus(self):
+        return "Building scalable AI systems that bridge computer vision and natural language processing"
 
-# Instantiate the class and call the method
+# Instantiate the AI Engineer
 me = AbdellahEnnajari()
-me.say_hi()
-
 ```
 
-- 🧠 Currently exploring Deep Learning for 3D object classification, Computer Vision, and AI-driven image processing.
-
-- 🛠️ Passionate about building intelligent systems using Python, TensorFlow, PyTorch, Keras, scikit-learn, and OpenCV.
-
-- 📚 Focused on the applications of Convolutional Neural Networks (CNNs) in 3D object recognition and AI-powered medical imaging.
-
-- 🧑‍💼 Gaining hands-on experience through AI-focused internships, working on real-world AI deployment and data engineering projects.
-
-- 🌱 Currently expanding my skillset with Docker, AWS, and ML deployment techniques to bring models from research to production
+<a id="ai-specialization"></a>
+## 🧠 AI Specialization Areas
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-ennajari-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Leetcode-ennajari-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-ennajari-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-</div>
-
----
-
-<a id="current-focus"></a>
-## 🔍 Current Focus
-
-<div align="center">
-  <!-- Animated Mindmap for Current Focus -->
-  <img src="https://github.com/ennajari/ennajari/blob/main/mindmap-animation.gif" alt="AI Focus Areas" width="700">
-</div>
-
-```mermaid
+  <!-- AI Focus Areas Diagram -->
+  ```mermaid
 mindmap
   root((AI Engineering))
+    Deep Learning
+      CNN Architectures
+      Transformers
+      Self-Supervised Learning
+      Neural Architecture Search
+    Computer Vision
+      3D Object Recognition
+      Video Understanding
+      Medical Image Analysis
+      Neural Rendering
     Generative AI
       Diffusion Models
-      Transformers
-      RAG Systems
-    Multi-modal Learning
-      Vision-Language Models
-      Audio-Visual Processing
-    3D Computer Vision
-      Neural Rendering
-      Point Cloud Analysis
-      Mesh Processing
+      Text-to-Image Systems
+      RAG Architectures
+      Multimodal Generation
+    Foundation Models
+      Fine-tuning Strategies
+      Parameter-Efficient Training
+      Prompt Engineering
+      Knowledge Distillation
     MLOps
-      CI/CD for ML
       Model Monitoring
-      Scalable Deployment
+      Continuous Deployment
+      A/B Testing
+      Resource Optimization
 ```
+</div>
+
+### Key Research Areas
+- **3D Computer Vision**: Developing 3D object recognition systems with focus on medical applications
+- **Multimodal Learning**: Creating systems that understand and generate across vision, language, and 3D domains
+- **Responsible AI**: Implementing explainable AI techniques and fairness-aware algorithms
+- **LLM Applications**: Building specialized RAG (Retrieval Augmented Generation) systems for domain-specific tasks
+- **Foundation Model Deployment**: Optimizing large models for resource-constrained environments
 
 <div align="center">
-  <h3>AI Development Journey</h3>
-  
-  <!-- Development Timeline using custom animation -->
-  <img src="https://github.com/ennajari/ennajari/blob/main/timeline-animated.gif" alt="AI Journey Timeline" width="800">
-  
+  <!-- AI Development Timeline -->
   ```mermaid
 timeline
-  title My AI Journey
-  2022 : Completed DEUG – Math & CS @ Université Ibn Zohr
-  2023 : Licence in Math & CS (Mention Bien) – Ibn Zohr University
-       : Final project – Timetable generator using genetic algorithms
-       : Joined ENIAD – Engineering program in AI & Data Science
-       : Web Development Certification – YouCode Maroc
-  2024 : Internship – 3D Smart Factory (3D Classification, 97% accuracy)
-       : Internship – HGS Hightech (360° Product Viewer, Deep Learning)
-       : Certifications in ML & TensorFlow
-  2025 : Multi-agent systems
-       : First MLOps pipeline implementation
-  ```
-  ```mermaid
-pie showData
-    title Skills Breakdown: Expertise in AI/ML
-    "Deep Learning (CNN, RNN)" : 35
-    "Computer Vision (3D Recognition, Image Processing)" : 30
-    "NLP (Text Analysis, Language Models)" : 20
-    "Generative AI (GANs, Diffusion Models)" : 40
-    "MLOps (Deployment, CI/CD, Monitoring)" : 15
- ```
-</div>
-
-<div align="center">
-  <blockquote>
-    <p><i>"The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices."</i></p>
-    <footer>- Paul Graham (programmer)</footer>
-  </blockquote>
-</div>
-
----
-
-<a id="projects"></a>
-## 🧪 What I've Worked On
-
-<div align="center">
-  <!-- Interactive Project Architecture Diagram -->
-  <img src="https://github.com/ennajari/ennajari/blob/main/project-flow-animated.gif" alt="Project Flow" width="700">
-  
-  ```mermaid
-flowchart TD
-    A[Data Collection: Gathering Raw Data] --> B[Preprocessing: Cleaning and Organizing Data]
-    B --> C[Feature Engineering: Extracting Valuable Features]
-    C --> D[Model Training: Training Machine Learning Models]
-    D --> E[Evaluation: Assessing Model Performance]
-    E --> F[Deployment: Deploying Model to Production]
-    F --> G[Monitoring: Continuously Tracking Model Performance]
-    G --> A[Data Collection: Feedback for Further Improvement]
-    
-    style A fill:#ffcccc,stroke:#ff0000,stroke-width:2px
-    style B fill:#ccffcc,stroke:#00ff00,stroke-width:2px
-    style C fill:#ccccff,stroke:#0000ff,stroke-width:2px
-    style D fill:#ffffcc,stroke:#ffff00,stroke-width:2px
-    style E fill:#ccffff,stroke:#00ffff,stroke-width:2px
-    style F fill:#ffccff,stroke:#ff00ff,stroke-width:2px
-    style G fill:#eeeeee,stroke:#333333,stroke-width:2px
+  title AI Engineering Journey
+  2022 : Foundation in Mathematics & Computer Science
+       : First deep learning projects with TensorFlow
+  2023 : Specialized in AI & Data Science at ENIAD
+       : Implemented Computer Vision for dental classification
+       : Built first end-to-end ML pipeline
+  2024 : Advanced 3D Vision Research (97% accuracy in dental modeling)
+       : Developed multimodal RAG systems
+       : Applied diffusion models to medical imaging
+  2025 : Researching foundation models for 3D understanding
+       : Building MLOps infrastructure for AI deployment
+       : Exploring neural rendering for interactive applications
   ```
 </div>
 
-<details>
-<summary><b>🦷 3D Dental Classification System (Internship – 3D Smart Factory)</b></summary>
+<a id="ai-projects"></a>
+## 🔬 AI & Deep Learning Projects
+
+<details open>
+<summary><b>🦷 3D Dental Classification System (3D Smart Factory)</b></summary>
 <br>
-<img src="https://img.shields.io/badge/Domain-Computer%20Vision-blue">
+<img src="https://img.shields.io/badge/Domain-3D_Computer_Vision-blue">
 <img src="https://img.shields.io/badge/Accuracy-97%25-success">
+<img src="https://img.shields.io/badge/Models-PointNet++_&_3D_ConvNets-orange">
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZpOXFlaGE2MjB2b2IydTV5cHQ3ZHR5cW5kdTF6cGFqcW9kZmNvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUM3IgJBX2as9y/giphy.gif" width="300">
 </div>
 
-- Developed a high-accuracy 3D dental classification pipeline using **ConvNets** and **PointNet++**
-- Achieved **97% accuracy** on mesh-based dental data with **35% faster inference** than previous solutions
-- Created custom data augmentation techniques for 3D meshes, collaborated with dentists
-- Implemented visualization tools for explainable AI to help dentists understand model decisions
-- **Tech stack:** PyTorch3D, NumPy, Matplotlib, Plotly, Open3D, Flask
+**Technical Details:**
+- Implemented a **hybrid 3D classification architecture** combining PointNet++ for point cloud processing and 3D ConvNets for volumetric analysis
+- Designed custom data augmentation pipeline for 3D dental meshes (rotation, partial occlusion, point perturbation)
+- Incorporated **attention mechanisms** to focus on critical tooth regions
+- Applied **quantization** and **pruning** to optimize model for edge deployment
+- Developed explainable AI visualization tools using **GradCAM for 3D** to highlight decision regions
+- Achieved **35% faster inference** with minimal accuracy drop through knowledge distillation
 
-<!-- Project Architecture -->
+**Tech Stack:** 
+- **Models**: PointNet++, 3D-ResNet, MeshCNN
+- **Libraries**: PyTorch3D, Open3D, NumPy, Matplotlib, Plotly
+- **Deployment**: ONNX Runtime, TensorRT, Flask API
+
 ```mermaid
 graph LR
     A[3D Scan Input] --> B[Mesh Processing]
-    B --> C[Feature Extraction]
-    C --> D[Classification Model]
-    D --> E[Tooth Type]
-    D --> F[Condition Assessment]
-    E --> G[Visualization]
+    B --> C[Point Cloud Extraction]
+    B --> D[Voxelization]
+    C --> E[PointNet++ Feature Extractor]
+    D --> F[3D-CNN Feature Extractor]
+    E --> G[Feature Fusion]
     F --> G
+    G --> H[Classification Head]
+    H --> I[Tooth Type]
+    H --> J[Pathology Detection]
     
     style A fill:#f9d5e5,stroke:#ff69b4
-    style D fill:#eeeeee,stroke:#333333
-    style G fill:#d5f9e5,stroke:#00cc66
+    style E fill:#d5f9e5,stroke:#00cc66
+    style F fill:#d5e5f9,stroke:#3366cc
+    style H fill:#f9e5d5,stroke:#cc6600
 ```
 </details>
 
 <details>
-<summary><b>🌀 360° Product Viewer (Internship – HGS-Hightech)</b></summary>
+<summary><b>🔄 Multimodal RAG Chatbot for Academic Research</b></summary>
 <br>
-<img src="https://img.shields.io/badge/Domain-Web/3D-purple">
-<img src="https://img.shields.io/badge/Improvement-40%25-success">
-
-<div align="center">
-  <img src="https://github.com/ennajari/ennajari/blob/main/Nijol-Creative.gif" width="300">
-</div>
-
-- Built an interactive product visualization system using **deep learning** and **WebGL**
-- Increased product detail accuracy by **40%** through intelligent rendering
-- Implemented automatic hotspot detection for key product features using custom **object detection**
-- Developed responsive front-end using **HTML5**, **CSS**, **JavaScript** with **Three.js**
-- **Tech stack:** TensorFlow, Three.js, WebGL, Node.js, MongoDB
-
-<!-- System Architecture -->
-```mermaid
-graph TD
-    A[Product Images] --> B[Image Processing]
-    B --> C[Feature Detection]
-    B --> D[3D Reconstruction]
-    C --> E[Interactive Hotspots]
-    D --> F[WebGL Renderer]
-    E --> G[User Interface]
-    F --> G
-    
-    style A fill:#d1c4e9,stroke:#673ab7
-    style F fill:#bbdefb,stroke:#2196f3
-    style G fill:#c8e6c9,stroke:#4caf50
-```
-</details>
-
-<details>
-<summary><b>🤖 Multi-modal Chatbot for Students (Team Project)</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Domain-NLP-orange">
-<img src="https://img.shields.io/badge/Status-Active-success">
+<img src="https://img.shields.io/badge/Domain-NLP_&_RAG-green">
+<img src="https://img.shields.io/badge/Model-GPT_with_CLIP-purple">
+<img src="https://img.shields.io/badge/Vector_DB-FAISS-blue">
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExandzOGcxbTIweDJleTE5NDNyajRneHg5NXZlMTI0ZG1qeHNidTBleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 </div>
 
-- Developing an AI assistant that can answer student questions about course materials
-- Implemented **RAG (Retrieval Augmented Generation)** with **Langchain** for accurate responses
-- Created custom vector database of curriculum materials with **FAISS**
-- Built multi-modal interface that can process text, images, and PDFs
-- **Tech stack:** Hugging Face Transformers, Langchain, FAISS, FastAPI, Streamlit, Docker
+**Technical Details:**
+- Engineered a **multimodal retrieval system** capable of processing text, images, and PDFs using CLIP embeddings
+- Implemented **hybrid search** combining semantic and sparse vectors for improved retrieval accuracy
+- Built custom chunking algorithm with context-aware splitting for academic papers
+- Integrated **re-ranking mechanisms** based on citation networks and semantic relevance
+- Applied **query expansion** techniques to handle domain-specific terminologies
+- Created evaluation framework measuring hallucination rates and factual accuracy
 
-<!-- RAG Architecture -->
+**Tech Stack:**
+- **Models**: LangChain, HuggingFace Transformers, CLIP, FAISS
+- **Vector DB**: FAISS with hybrid search
+- **Backend**: FastAPI, Redis for caching
+- **Frontend**: Streamlit, Gradio
+
 ```mermaid
 sequenceDiagram
     participant U as User
-    participant I as Interface
+    participant F as Frontend
+    participant QP as Query Processor
     participant R as Retriever
-    participant G as Generator
-    participant V as Vector DB
+    participant VDB as Vector DB
+    participant LLM as Language Model
     
-    U->>I: Query with Document
-    I->>R: Process Query
-    R->>V: Search Relevant Context
-    V-->>R: Return Matches
-    R->>G: Query + Context
-    G-->>I: Generated Response
-    I-->>U: Display Answer
+    U->>F: Query with Document/Image
+    F->>QP: Process Input
+    QP->>QP: Extract Keywords & Entities
+    QP->>R: Optimized Query
+    R->>VDB: Hybrid Search (Dense + Sparse)
+    VDB-->>R: Top K Results
+    R->>R: Re-rank Results
+    R->>LLM: Query + Retrieved Context
+    LLM-->>F: Generated Response with Citations
+    F-->>U: Formatted Answer with Sources
 ```
 </details>
 
-<a href="https://github.com/ennajari?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects">
-</a>
-
----
-
-<a id="skills--technologies"></a>
-## 💡 Skills & Technologies
+<details>
+<summary><b>🌐 Vision-Language Foundation Model for 3D Scene Understanding</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Domain-Multimodal_Learning-orange">
+<img src="https://img.shields.io/badge/Framework-PyTorch_3D-red">
+<img src="https://img.shields.io/badge/Application-Scene_Understanding-blue">
 
 <div align="center">
-  <!-- Animated Skills Chart -->
-  <img src="https://github.com/ennajari/ennajari/blob/main/skills-animation.gif" alt="Skills Animation" width="650">
-  
-  ```mermaid
+  <img src="https://github.com/ennajari/ennajari/blob/main/Nijol-Creative.gif" width="300">
+</div>
+
+**Technical Details:**
+- Developed a foundation model connecting visual, textual, and 3D understanding
+- Implemented **CLIP-based encoding** for both images and 3D point clouds
+- Utilized **transformer architecture** with cross-attention between modalities
+- Applied **contrastive learning objectives** for aligning text and 3D representations
+- Engineered custom **prompt tuning techniques** for 3D reasoning tasks
+- Designed novel data augmentation strategies for joint vision-language-3D training
+
+**Tech Stack:**
+- **Models**: Modified CLIP, Point-BERT, T5 Encoder
+- **Libraries**: PyTorch3D, Transformers, OpenAI CLIP
+- **3D Tools**: Open3D, PyTorch3D, Kaolin
+- **Infrastructure**: PyTorch Lightning, Weights & Biases
+
+```mermaid
 graph TD
-    AI((AI/ML: Artificial Intelligence & Machine Learning))
-    CV((Computer Vision: Image & Video Analysis))
-    NLP((Natural Language Processing: Text & Language Models))
-    MLOps((MLOps: Machine Learning Operations))
-    Tools((Tools: Libraries, Frameworks, and Platforms))
+    A[Image Input] --> B[Vision Encoder]
+    C[Text Input] --> D[Text Encoder]
+    E[3D Point Cloud] --> F[3D Encoder]
+    B --> G[Cross-Modal Transformer]
+    D --> G
+    F --> G
+    G --> H[Joint Embedding Space]
+    H --> I[3D Scene Understanding]
+    H --> J[Image-Text-3D Retrieval]
+    H --> K[3D Generation from Text]
     
-    AI --- CV
-    AI --- NLP
-    AI --- DB
-    AI --- MLOps
-    AI --- WD
-    MLOps --- Tools
-    WD --- Tools
-    
-    classDef main fill:#ffb3b3,stroke:#ff0000,stroke-width:2px
-    classDef major fill:#b3ffb3,stroke:#00cc44,stroke-width:2px
-    classDef minor fill:#b3d9ff,stroke:#0066cc,stroke-width:2px
-    
-    class AI main
-    class CV,NLP,MLOps major
-    class WD,DB,Tools minor
-
-  ```
-</div>
-
-<details open>
-<summary><b>Programming Languages</b></summary>
-<br>
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-</div>
+    style B fill:#d1c4e9,stroke:#673ab7
+    style D fill:#bbdefb,stroke:#2196f3
+    style F fill:#c8e6c9,stroke:#4caf50
+    style G fill:#ffecb3,stroke:#ffa000
+    style H fill:#f8bbd0,stroke:#e91e63
+```
 </details>
 
-<details>
-<summary><b>AI/ML Frameworks</b></summary>
+<div align="center">
+  <a href="https://github.com/ennajari?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20AI%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects">
+  </a>
+</div>
+
+<a id="technical-skills"></a>
+## 🔧 AI Technical Stack
+
+<details open>
+<summary><b>Deep Learning & AI Frameworks</b></summary>
 <br>
 <div>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
   <img src="https://img.shields.io/badge/JAX-0A2F5F?style=for-the-badge&logo=jax&logoColor=white">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black">
   <img src="https://img.shields.io/badge/LangChain-65B741?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorch-lightning&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white">
-  <img src="https://img.shields.io/badge/Stable%20Diffusion-FF9D00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Stable_Diffusion-FF9D00?style=for-the-badge">
 </div>
 </details>
 
 <details>
-<summary><b>Computer Vision & NLP</b></summary>
+<summary><b>Computer Vision & 3D Vision</b></summary>
 <br>
 <div>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge">
-  <img src="https://img.shields.io/badge/NLTK-76B900?style=for-the-badge">
-  <img src="https://img.shields.io/badge/mediapipe-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch3D-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Open3D-333333?style=for-the-badge">
   <img src="https://img.shields.io/badge/Detectron2-00C6B8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorch-lightning&logoColor=white">
-  <img src="https://img.shields.io/badge/AllenNLP-EE4C2C?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Sentence%20Transformers-004E89?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/Kornia-FF007F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NeRF-4B32C3?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge">
 </div>
 </details>
 
 <details>
-<summary><b>MLOps & Cloud</b></summary>
+<summary><b>NLP & Generative AI</b></summary>
+<br>
+<div>
+  <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LangChain-65B741?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NLTK-76B900?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Diffusers-FF2D55?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RAG-6236FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CLIP-FFBA08?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BERT-2196F3?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GPT--3-412991?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Token_Classification-964B00?style=for-the-badge">
+</div>
+</details>
+
+<details>
+<summary><b>MLOps & AI Infrastructure</b></summary>
 <br>
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white">
   <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black">
-  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-</div>
-</details>
-
-<details>
-<summary><b>3D & Graphics Tools</b></summary>
-<br>
-<div>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white">
-  <img src="https://img.shields.io/badge/Open3D-333333?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PyTorch3D-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/NeRF-4B32C3?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white">
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge">
 </div>
 </details>
 
 <div align="center">
-  <!-- Interactive Technology Expertise Radar Chart -->
-  <img src="https://github.com/ennajari/ennajari/blob/main/skills-radar-animated.gif" alt="Interactive Skills Radar" width="500">
+  <!-- AI Skills Specialization Chart -->
+  ```mermaid
+pie showData
+    title "AI Expertise Distribution"
+    "Deep Learning" : 30
+    "Computer Vision & 3D Vision" : 25
+    "Generative AI & LLMs" : 20
+    "MLOps & Deployment" : 15
+    "Research & Development" : 10
+ ```
 </div>
 
----
+<a id="ai-research"></a>
+## 📊 AI Research & Publications
+
+<div align="center">
+  <!-- Research Insights -->
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <a href="#">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHppdmpwMHc5N2hxODY0Zjh6MHRnZm8wZjhtNXViOGRrZ2VmcHl6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IylQoMkcbZUbtKw/giphy.gif" width="100%">
+          <br>
+          <strong>Explainable Computer Vision for Medical Applications</strong>
+          <br>
+          <small>Novel approaches to make 3D classification models interpretable for healthcare professionals</small>
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="#">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZxZ2hzNGdmZ2J1N213ZGE2cHd0Y3N5ZzNhenl1NHltOXYwN3NsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%">
+          <br>
+          <strong>Advanced Diffusion Models for 3D Generation</strong>
+          <br>
+          <small>Extending text-to-image diffusion to 3D object generation with geometric constraints</small>
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="#">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemo2YjdxY3JhNTZkMHcwY2V4dnA3OG41Z29kbGVpbXYyYTAzNHN6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QN6NnhbgfOpoI/giphy.gif" width="100%">
+          <br>
+          <strong>Efficient Foundation Model Deployment</strong>
+          <br>
+          <small>Novel techniques for deploying large foundation models in resource-constrained environments</small>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Research Topics
+- **Neural Rendering**: Exploring novel approaches to render 3D objects from sparse views
+- **Parameter-Efficient Fine-Tuning**: Developing methods to adapt foundation models with minimal resources
+- **Multimodal Retrieval**: Creating systems for cross-modal search across text, images, and 3D models
+- **3D Foundation Models**: Building general-purpose representations for 3D understanding tasks
 
 <a id="github-stats"></a>
 ## 📈 GitHub Analytics
@@ -419,114 +414,41 @@ graph TD
 </div>
 
 <div align="center">
-  <!-- Animated Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ennajari&theme=radical&border_radius=10&background=45,000428,004e92&stroke=transparent&ring=fb8c00&fire=f57c00&currStreakLabel=fff&date_format=M%20j%5B%2C%20Y%5D" height="180">
-</div>
-
-<div align="center">
-  <!-- Enhanced 3D Contribution Chart -->
-  <img src="https://github.com/ennajari/ennajari/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="800">
-</div>
-
-<div align="center">
-  <!-- Animated Trophy Display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ennajari&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" alt="trophy">
-</div>
-
-<div align="center">
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ennajari&theme=react-dark&bg_color=000428&color=ffffff&line=6a5acd&point=ffffff&area=true&hide_border=true" width="800">
 </div>
 
----
-
-<a id="latest-blog-posts"></a>
-## 📚 Latest Blog Posts
-
-
-
-<div align="center">
-  <!-- Enhanced Blog Post Cards with Animations -->
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <a href="https://medium.com/@ennajari">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHppdmpwMHc5N2hxODY0Zjh6MHRnZm8wZjhtNXViOGRrZ2VmcHl6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IylQoMkcbZUbtKw/giphy.gif" width="100%">
-          <br>
-          <strong>Building Explainable Computer Vision Systems for Healthcare</strong>
-        </a>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://medium.com/@ennajari">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZxZ2hzNGdmZ2J1N213ZGE2cHd0Y3N5ZzNhenl1NHltOXYwN3NsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%">
-          <br>
-          <strong>Diffusion Models: A Practical Implementation Guide</strong>
-        </a>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://medium.com/@ennajari">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemo2YjdxY3JhNTZkMHcwY2V4dnA3OG41Z29kbGVpbXYyYTAzNHN6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QN6NnhbgfOpoI/giphy.gif" width="100%">
-          <br>
-          <strong>Advanced Data Augmentation Techniques for 3D Vision</strong>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-➡️ [more blog posts...](https://medium.com/@ennajari)
-
----
-
 <a id="certifications"></a>
-## 📜 Certifications
-
-<div>
-  <!-- Enhanced Certification Display with Animation -->
-  <img src="https://github.com/ennajari/ennajari/blob/main/certificates-animation.gif" alt="Certification Animation" width="700">
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="#"><img src="https://img.shields.io/badge/TensorFlow%202.0%20QuickStart-Udemy%20(2024)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-365%20Data%20Science%20(2024)-5C5543?style=for-the-badge"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Web%20Development-YouCode%20Maroc%20(2023)-FF0000?style=for-the-badge"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Data%20Analysis-Udemy%20(2025)-A435F0?style=for-the-badge&logo=udemy&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/AWS%20Machine%20Learning-AWS%20(2025)-232F3E?style=for-the-badge
-</details>
-
-<details>
-<summary><b>🌀 360° Product Viewer (Academic Project)</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Domain-3D%20Vision-green">
-<img src="https://img.shields.io/badge/Tech-PyVista%2C%20TensorFlow-orange">
+## 📜 AI Certifications & Training
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCWRxXpYw1h1Uuk/giphy.gif" width="300">
+  <a href="#"><img src="https://img.shields.io/badge/Deep_Learning_Specialization-DeepLearning.AI_(2024)-0056D2?style=for-the-badge&logo=coursera&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow_Developer-Google_(2024)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch_for_Deep_Learning-Udemy_(2023)-A435F0?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Machine_Learning_Engineering-MLOps_(2024)-00C7B7?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Computer_Vision_Nanodegree-Udacity_(2023)-02B3E4?style=for-the-badge&logo=udacity&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Generative_AI_with_LLMs-DeepLearning.AI_(2024)-0056D2?style=for-the-badge&logo=coursera&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS_Machine_Learning-Amazon_(2025)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 </div>
 
-- Designed an end-to-end pipeline to generate 360° interactive product views from 2D images
-- Combined deep learning and mesh generation to build immersive previews for e-commerce
-- Used **image stitching**, **depth estimation**, and **PyVista** for rendering
-- Deployed the viewer using a web frontend built with HTML5 + JS + Pannellum
-
-</details>
-
-<details>
-<summary><b>🧠 Multi-modal Chatbot (In Progress)</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Domain-NLP%20%26%20Vision-purple">
-<img src="https://img.shields.io/badge/Framework-Transformers-yellow">
-
-- Building a chatbot that understands both text and images using vision-language models
-- Leveraging **CLIP**, **BLIP**, and **transformers-based** architectures
-- Trained on a custom dataset with mixed media inputs for real-time interaction
-
-</details>
+<a id="connect-with-me"></a>
+## 🔗 Connect With Me
 
 <div align="center">
-  <!-- Final Note -->
-  <img src="https://github.com/ennajari/ennajari/blob/main/footer-banner.gif" alt="Footer Banner" width="800">
+  <a href="https://www.linkedin.com/in/ennajari-abdellah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ennajari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:abdellahennajari2018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+</div>
+
+<div align="center">
+  <blockquote>
+    <p><i>"AI is not just about algorithms and data—it's about creating systems that augment human intelligence and solve real-world problems."</i></p>
+  </blockquote>
   
-  <h3>Feeal free to reach out for collaborations, research opportunities, or just to chat about AI! 💡</h3>
+  <h3>Feel free to reach out for AI collaborations, research opportunities, or to discuss innovative applications of artificial intelligence! 🧠</h3>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%">
 </div>
