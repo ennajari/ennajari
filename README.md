@@ -43,9 +43,7 @@ I’m **Abdellah Ennajari**, an enthusiastic and driven** AI Engineering student
 <a id="about-me"></a>
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZhdHBvOXVsa3oyZnVwdWZ6NjJwemIwdHA2MzVhMG9peXJ2MHJ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</div>
+
 
 ```python
 class AbdellahEnnajari:
@@ -67,13 +65,15 @@ me.say_hi()
 
 ```
 
-- 🧠 Currently diving deep into **LLMs**, **Generative AI**, **3D object recognition**, and **Multi-agent systems**
-- 🛠️ I enjoy building scalable, intelligent systems with **Python**, **TensorFlow**, **PyTorch**,**scikit learn**,**Keras** and **Hugging Face**
-- 📚 Researching applications of **diffusion models** and **transformers** in medical imaging
-- 🔭 Actively contributing to **open-source AI projects** and involved in **student leadership** at ENIAD
-- 🥇 Finalist in the **National AI Hackathon 2023** and **2nd place** in Google Developer Groups AI Challenge 2024
-- 🧑‍💼 Experienced with both in-person and remote AI internships with real deliverables
-- 🌱 Currently learning **AWS** and **Docker** for ML deployment
+- 🧠 Currently exploring Deep Learning for 3D object classification, Computer Vision, and AI-driven image processing.
+
+- 🛠️ Passionate about building intelligent systems using Python, TensorFlow, PyTorch, Keras, scikit-learn, and OpenCV.
+
+- 📚 Focused on the applications of Convolutional Neural Networks (CNNs) in 3D object recognition and AI-powered medical imaging.
+
+- 🧑‍💼 Gaining hands-on experience through AI-focused internships, working on real-world AI deployment and data engineering projects.
+
+- 🌱 Currently expanding my skillset with Docker, AWS, and ML deployment techniques to bring models from research to production
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Discord-ennajari-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -118,19 +118,28 @@ mindmap
   <img src="https://github.com/ennajari/ennajari/blob/main/timeline-animated.gif" alt="AI Journey Timeline" width="800">
   
   ```mermaid
-  timeline
-    title My AI Journey
-    2022 : Started ENIAD
-         : First ML project
-    2023 : 3D Dental Classification internship
-         : National AI Hackathon finalist
-    2024 : 360° Product Viewer
-         : Deep Learning Research
-         : First academic paper submission
-    2025 : Multi-modal Chatbot project
-         : AWS Certification
-         : MLOps implementation
+timeline
+  title My AI Journey
+  2022 : Completed DEUG – Math & CS @ Université Ibn Zohr
+  2023 : Licence in Math & CS (Mention Bien) – Ibn Zohr University
+       : Final project – Timetable generator using genetic algorithms
+       : Joined ENIAD – Engineering program in AI & Data Science
+       : Web Development Certification – YouCode Maroc
+  2024 : Internship – 3D Smart Factory (3D Classification, 97% accuracy)
+       : Internship – HGS Hightech (360° Product Viewer, Deep Learning)
+       : Certifications in ML & TensorFlow
+  2025 : Multi-agent systems
+       : First MLOps pipeline implementation
   ```
+  ```mermaid
+pie showData
+    title Skills Breakdown: Expertise in AI/ML
+    "Deep Learning (CNN, RNN)" : 35
+    "Computer Vision (3D Recognition, Image Processing)" : 30
+    "NLP (Text Analysis, Language Models)" : 20
+    "Generative AI (GANs, Diffusion Models)" : 40
+    "MLOps (Deployment, CI/CD, Monitoring)" : 15
+ ```
 </div>
 
 <div align="center">
@@ -150,22 +159,22 @@ mindmap
   <img src="https://github.com/ennajari/ennajari/blob/main/project-flow-animated.gif" alt="Project Flow" width="700">
   
   ```mermaid
-  flowchart TD
-    A[Data Collection] --> B[Preprocessing]
-    B --> C[Feature Engineering]
-    C --> D[Model Training]
-    D --> E[Evaluation]
-    E --> F[Deployment]
-    F --> G[Monitoring]
-    G --> A
+flowchart TD
+    A[Data Collection: Gathering Raw Data] --> B[Preprocessing: Cleaning and Organizing Data]
+    B --> C[Feature Engineering: Extracting Valuable Features]
+    C --> D[Model Training: Training Machine Learning Models]
+    D --> E[Evaluation: Assessing Model Performance]
+    E --> F[Deployment: Deploying Model to Production]
+    F --> G[Monitoring: Continuously Tracking Model Performance]
+    G --> A[Data Collection: Feedback for Further Improvement]
     
-    style A fill:#ffcccc,stroke:#ff0000
-    style B fill:#ccffcc,stroke:#00ff00
-    style C fill:#ccccff,stroke:#0000ff
-    style D fill:#ffffcc,stroke:#ffff00
-    style E fill:#ccffff,stroke:#00ffff
-    style F fill:#ffccff,stroke:#ff00ff
-    style G fill:#eeeeee,stroke:#333333
+    style A fill:#ffcccc,stroke:#ff0000,stroke-width:2px
+    style B fill:#ccffcc,stroke:#00ff00,stroke-width:2px
+    style C fill:#ccccff,stroke:#0000ff,stroke-width:2px
+    style D fill:#ffffcc,stroke:#ffff00,stroke-width:2px
+    style E fill:#ccffff,stroke:#00ffff,stroke-width:2px
+    style F fill:#ffccff,stroke:#ff00ff,stroke-width:2px
+    style G fill:#eeeeee,stroke:#333333,stroke-width:2px
   ```
 </div>
 
@@ -209,7 +218,7 @@ graph LR
 <img src="https://img.shields.io/badge/Improvement-40%25-success">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RjemQyYms5MXg5dmllN2l5YnM0Y3lpczdqM3k5MTJpMnA2ZGVoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRfNA1p0rvhMSvS/giphy.gif" width="300">
+  <img src="https://github.com/ennajari/ennajari/blob/main/Nijol-Creative.gif" width="300">
 </div>
 
 - Built an interactive product visualization system using **deep learning** and **WebGL**
@@ -284,14 +293,12 @@ sequenceDiagram
   <img src="https://github.com/ennajari/ennajari/blob/main/skills-animation.gif" alt="Skills Animation" width="650">
   
   ```mermaid
-  graph TD
-    AI((AI/ML))
-    CV((Computer Vision))
-    NLP((NLP))
-    WD((Web Dev))
-    DB((Databases))
-    MLOps((MLOps))
-    Tools((Tools))
+graph TD
+    AI((AI/ML: Artificial Intelligence & Machine Learning))
+    CV((Computer Vision: Image & Video Analysis))
+    NLP((Natural Language Processing: Text & Language Models))
+    MLOps((MLOps: Machine Learning Operations))
+    Tools((Tools: Libraries, Frameworks, and Platforms))
     
     AI --- CV
     AI --- NLP
@@ -301,13 +308,14 @@ sequenceDiagram
     MLOps --- Tools
     WD --- Tools
     
-    classDef main fill:#ff9e9e,stroke:#ff0000,stroke-width:2px
-    classDef major fill:#9effb1,stroke:#00cc44,stroke-width:2px
-    classDef minor fill:#9eceff,stroke:#0073e6,stroke-width:2px
+    classDef main fill:#ffb3b3,stroke:#ff0000,stroke-width:2px
+    classDef major fill:#b3ffb3,stroke:#00cc44,stroke-width:2px
+    classDef minor fill:#b3d9ff,stroke:#0066cc,stroke-width:2px
     
     class AI main
     class CV,NLP,MLOps major
     class WD,DB,Tools minor
+
   ```
 </div>
 
@@ -435,9 +443,7 @@ sequenceDiagram
 <a id="latest-blog-posts"></a>
 ## 📚 Latest Blog Posts
 
-<div align="center">
-  <a href="https://medium.com/@ennajari"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=@ennajari" alt="Medium article"></a>
-</div>
+
 
 <div align="center">
   <!-- Enhanced Blog Post Cards with Animations -->
@@ -475,7 +481,7 @@ sequenceDiagram
 <a id="certifications"></a>
 ## 📜 Certifications
 
-<div align="center">
+<div>
   <!-- Enhanced Certification Display with Animation -->
   <img src="https://github.com/ennajari/ennajari/blob/main/certificates-animation.gif" alt="Certification Animation" width="700">
   
@@ -516,23 +522,11 @@ sequenceDiagram
 
 </details>
 
----
-
-<a id="skills--technologies"></a>
-## 🛠️ Skills & Technologies
-
-```yaml
-Languages:
-  - Python
-  - C++
-  - Java
-  - JavaScript
-  - HTML/CSS
-  - Bash
-Frameworks & Libraries:
-  - TensorFlow, Keras, PyTorch, OpenCV, Scikit-learn
-  - PyVista, Matplotlib, NumPy, Pandas, Seaborn
-  - Flask, FastAPI, Streamlit
-Tools & Platforms:
-  - Git, GitHub, Docker, Jupyter, VSCode, Anaconda
-  - Google Colab, Kaggle, Hugging Face, AWS (basic)
+<div align="center">
+  <!-- Final Note -->
+  <img src="https://github.com/ennajari/ennajari/blob/main/footer-banner.gif" alt="Footer Banner" width="800">
+  
+  <h3>Feeal free to reach out for collaborations, research opportunities, or just to chat about AI! 💡</h3>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%">
+</div>
