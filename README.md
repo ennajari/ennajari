@@ -4,7 +4,9 @@
   <img src="https://github.com/ennajari/ennajari/blob/main/Engineer.gif" alt="Profile Banner" width="700">
 
   <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=AI+Engineering;Deep+Learning+Enthusiast;Computer+Vision+Specialist;GenAI;NLP;LLM" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=AI+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Specialist;Generative+AI+Explorer;Natural+Language+Processing+Fan;LLM+Developer" alt="Typing SVG" />
+</a>
   
   [![GitHub followers](https://img.shields.io/github/followers/ennajari?style=social)](https://github.com/ennajari)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ennajari-abdellah)
