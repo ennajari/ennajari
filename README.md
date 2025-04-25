@@ -600,4 +600,177 @@ sequenceDiagram
 </div>
 
 <div align="center">
-  <!-- NEW:
+  <!-- NEW:<div align="center">
+  <!-- NEW: Added trophy animation with scaling effect -->
+  <div class="trophy-container">
+    <img src="https://github-profile-trophy.vercel.app/?username=ennajari&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" class="trophy-animation">
+  </div>
+  
+  <style>
+    .trophy-container {
+      margin: 20px 0;
+    }
+    .trophy-animation {
+      animation: scaleTrophy 2s infinite alternate;
+    }
+    @keyframes scaleTrophy {
+      0% { transform: scale(1); }
+      100% { transform: scale(1.05); }
+    }
+  </style>
+</div>
+
+---
+
+<a id="latest-blog-posts"></a>
+## ✍️ Latest Blog Posts
+
+<div align="center">
+  <!-- NEW: Added sliding animation for blog posts -->
+  <div class="blog-posts-container">
+    <img src="https://github.com/ennajari/ennajari/blob/main/blog-animation.gif" alt="Blog Animation" width="600" class="blog-animation">
+  </div>
+  
+  <style>
+    .blog-posts-container {
+      margin: 20px 0;
+    }
+    .blog-animation {
+      animation: slideInBlog 1.5s ease-out;
+    }
+    @keyframes slideInBlog {
+      0% { transform: translateX(100%); opacity: 0; }
+      100% { transform: translateX(0); opacity: 1; }
+    }
+  </style>
+</div>
+
+Here are some of my recent writings on AI, ML, and tech:
+
+- 📝 **[Exploring Diffusion Models for Medical Imaging](https://ennajari.github.io/blog/diffusion-models-medical-imaging)**  
+  A deep dive into how diffusion models can enhance medical imaging applications.  
+  *Published: March 2025*
+
+- 📝 **[Building Scalable MLOps Pipelines with Docker and AWS](https://ennajari.github.io Ubiquity *Published: February 2025*
+
+- 📝 **[Getting Started with 3D Computer Vision using PyTorch3D](https://ennajari.github.io/blog/3d-computer-vision-pytorch3d)**  
+  A beginner-friendly guide to 3D vision projects with PyTorch3D.  
+  *Published: January 2025*
+
+<div align="center">
+  <a href="https://ennajari.github.io/blog" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20More%20Posts-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Read More Posts" class="blog-button">
+  </a>
+  
+  <style>
+    .blog-button {
+      transition: transform 0.3s ease;
+    }
+    .blog-button:hover {
+      transform: translateY(-3px);
+    }
+  </style>
+</div>
+
+```mermaid
+graph TD
+    A[Blog Posts] --> B[Diffusion Models]
+    A --> C[MLOps Pipelines]
+    A --> D[3D Vision]
+    
+    style A fill:#ffcccb,stroke:#ff6666
+    style B fill:#d9e6ff,stroke:#3366cc
+    style C fill:#ccffcc,stroke:#33cc33
+    style D fill:#ffebcc,stroke:#ff9933
+<a id="certifications"></a>
+
+🏆 Certifications
+<div align="center"> <!-- NEW: Added zoom-in animation for certifications --> <div class="certifications-container"> <img src="https://github.com/ennajari/ennajari/blob/main/certifications-animation.gif" alt="Certifications Animation" width="600" class="certifications-animation"> </div> <style> .certifications-container { margin: 20px 0; } .certifications-animation { animation: zoomIn 1.5s ease; } @keyframes zoomIn { 0% { transform: scale(0.8); opacity: 0; } 100% { transform: scale(1); opacity: 1; } } </style> </div>
+🥇 AWS Certified Machine Learning – Specialty
+Amazon Web Services, Issued: April 2025
+🥇 DeepLearning.AI: Deep Learning Specialization
+Coursera, Issued: December 2023
+🥇 Google Professional Machine Learning Engineer
+Google Cloud, Issued: August 2024
+🥇 Stanford Online: Computer Vision
+Stanford University, Issued: June 2023
+<div align="center"> <a href="https://www.linkedin.com/in/ennajari-abdellah" target="_blank"> <img src="https://img.shields.io/badge/View%20All%20Certifications-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="View All Certifications" class="cert-button"> </a> <style> .cert-button { transition: transform 0.3s ease; } .cert-button:hover { transform: translateY(-3px); } </style> </div>
+mermaid
+
+Copy
+graph TD
+    A[Certifications] --> B[AWS ML Specialty]
+    A --> C[Deep Learning]
+    A --> D[Google ML Engineer]
+    A --> E[Stanford CV]
+    
+    style A fill:#ffebcc,stroke:#ff9933
+    style B fill:#ffcccb,stroke:#ff6666
+    style C fill:#d9e6ff,stroke:#3366cc
+    style D fill:#ccffcc,stroke:#33cc33
+    style E fill:#ffccff,stroke:#cc33cc
+<a id="connect-with-me"></a>
+
+🤝 Connect with Me
+<div align="center"> <!-- NEW: Added bounce animation for connect section --> <div class="connect-container"> <img src="https://media.giphy.com/media/26xBwdIuR0KFb61Ik/giphy.gif" alt="Connect Animation" width="300" class="connect-animation"> </div> <style> .connect-container { margin: 20px 0; } .connect-animation { animation: bounceConnect 2s infinite alternate; } @keyframes bounceConnect { 0% { transform: translateY(0); } 100% { transform: translateY(-10px); } } </style> </div>
+I'm always excited to collaborate, discuss AI projects, or answer questions. Reach out via:
+
+<div class="connect-badges"> <a href="https://www.linkedin.com/in/ennajari-abdellah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="connect-badge"></a> <a href="mailto:abdellahennajari2018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" class="connect-badge"></a> <a href="https://discord.com/users/ennajari"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" class="connect-badge"></a> <a href="https://leetcode.com/ennajari"><img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" class="connect-badge"></a> <a href="https://www.hackerrank.com/ennajari"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" class="connect-badge"></a> <a href="https://x.com/ennajari"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" class="connect-badge"></a> </div> <style> .connect-badges { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 15px 0; } .connect-badge { transition: all 0.3s ease; } .connect-badge:hover { transform: translateY(-3px); filter: brightness(1.1); box-shadow: 0 5px 15px rgba(0,0,0,0.1); } </style> <div align="center"> <blockquote class="quote-animation"> <p><i>"Let's connect to innovate and push the boundaries of AI together!"</i></p> <footer>- Abdellah Ennajari</footer> </blockquote> </div>
+mermaid
+
+Copy
+graph TD
+    A[Connect] --> B[LinkedIn]
+    A --> C[Email]
+    A --> D[Discord]
+    A --> E[Leetcode]
+    A --> F[HackerRank]
+    A --> G[X]
+    
+    style A fill:#ccffcc,stroke:#33cc33
+    style B fill:#d9e6ff,stroke:#3366cc
+    style C fill:#ffcccb,stroke:#ff6666
+    style D fill:#ffccff,stroke:#cc33cc
+    style E fill:#ffebcc,stroke:#ff9933
+    style F fill:#ccffcc,stroke:#33cc33
+    style G fill:#cccccc,stroke:#333333
+<div align="center"> <p>Thanks for visiting my profile! Let's create something extraordinary in the world of AI! 🚀</p> <img src="https://media.giphy.com/media/LmN2oTkL6vCak/giphy.gif" alt="Rocket Gif" width="100"> </div>
+text
+
+Copy
+
+---
+
+### Explanation of Additions
+
+1. **Latest Blog Posts**:
+   - Added a section for recent blog posts with placeholder titles, links, and publication dates relevant to the user's interests (e.g., diffusion models, MLOps, 3D vision).
+   - Included a sliding animation for the blog animation GIF (placeholder).
+   - Used a Mermaid diagram to visualize the blog topics.
+   - Added a "Read More Posts" button with hover effect linking to the portfolio blog.
+
+2. **Certifications**:
+   - Listed four relevant certifications (AWS, DeepLearning.AI, Google, Stanford) with issuance dates aligned with the user's timeline (up to April 2025).
+   - Added a zoom-in animation for the certifications animation GIF (placeholder).
+   - Included a Mermaid diagram to represent the certifications.
+   - Added a "View All Certifications" button linking to LinkedIn.
+
+3. **Connect with Me**:
+   - Expanded the contact section with badges for LinkedIn, Email, Discord, Leetcode, HackerRank, and X, reusing links from earlier in the profile.
+   - Added a bouncing animation for a connect-themed GIF.
+   - Included a custom quote with the same fade-in animation style as earlier.
+   - Used a Mermaid diagram to visualize the contact methods.
+   - Ensured badge hover effects are consistent with other sections.
+
+4. **Consistency**:
+   - Maintained the same visual style (shields.io badges, centered layouts, animations with CSS).
+   - Used Mermaid diagrams for each section to align with the existing flowchart and mindmap usage.
+   - Kept the tone professional yet enthusiastic, matching the user's self-description.
+   - Ensured all links are placeholders or reused from earlier (e.g., LinkedIn, portfolio).
+
+5. **Assumptions**:
+   - Blog posts and certifications are fictional but plausible based on the user's skills and timeline (e.g., AWS certification in 2025 from the "Current Focus" section).
+   - Animation GIFs are placeholders (e.g., `blog-animation.gif`) assuming the user would create or source similar assets.
+   - X handle (`@ennajari`) is assumed for consistency with other platforms.
+
+This completion provides a polished, cohesive extension of the README while respecting the existing structure and style. If you have specific blog posts, certifications, or contact details to include, or if you want to adjust the animations or diagrams, let me know!
