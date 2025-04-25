@@ -10,7 +10,7 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/ennajari?style=social)](https://github.com/ennajari)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ennajari-abdellah)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ennajari.github.io)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ennajari.github.io/AI_Engineer/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdellahennajari2018@gmail.com)
   [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 </div>
@@ -111,8 +111,8 @@ pie showData
     "Deep Learning (CNN, RNN, LSTM, GRU)" : 25
     "Computer Vision (3D Recognition, Image Processing, ResNet, YOLO)" : 20
     "NLP (Text Analysis, Language Models, Embeddings, RoBERTa, XLNet)" : 20
-    "Generative AI (GANs, Diffusion Models, LLMs, GPT, DALL·E)" : 20
-    "MLOps (Deployment, CI/CD, Monitoring, MLflow, Docker, Kubernetes)" : 15
+    "Generative AI (GANs, Diffusion Models, LLMs, GPT, DALL·E)" : 25
+    "MLOps (Deployment, CI/CD, Monitoring, MLflow, Docker, Kubernetes)" : 10
  ```
   
 </div>
@@ -438,7 +438,7 @@ pie showData
 <a id="certifications"></a>
 ## 📜 AI Certifications & Training
 
-<div align="center">
+<div>
   <a href="#"><img src="https://img.shields.io/badge/Deep_Learning_Specialization-DeepLearning.AI_(2024)-0056D2?style=for-the-badge&logo=coursera&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow_Developer-Google_(2024)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/PyTorch_for_Deep_Learning-Udemy_(2023)-A435F0?style=for-the-badge&logo=pytorch&logoColor=white"></a>
@@ -451,7 +451,7 @@ pie showData
 <a id="connect-with-me"></a>
 ## 🔗 Connect With Me
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/ennajari-abdellah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/ennajari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:abdellahennajari2018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
