@@ -73,6 +73,7 @@ me = AbdellahEnnajari()
 
 <div align="center">
   <!-- AI Focus Areas Diagram -->
+  
   ```mermaid
 mindmap
   root((AI Engineering))
@@ -101,7 +102,19 @@ mindmap
       Continuous Deployment
       A/B Testing
       Resource Optimization
-```
+  ```
+
+
+  ```mermaid
+pie showData
+    title Skills Breakdown: Expertise in AI/ML
+    "Deep Learning (CNN, RNN)" : 35
+    "Computer Vision (3D Recognition, Image Processing)" : 30
+    "NLP (Text Analysis, Language Models)" : 20
+    "Generative AI (GANs, Diffusion Models)" : 40
+    "MLOps (Deployment, CI/CD, Monitoring)" : 15
+ ```
+  
 </div>
 
 ### Key Research Areas
@@ -113,6 +126,7 @@ mindmap
 
 <div align="center">
   <!-- AI Development Timeline -->
+  
   ```mermaid
 timeline
   title AI Engineering Journey
@@ -128,6 +142,7 @@ timeline
        : Building MLOps infrastructure for AI deployment
        : Exploring neural rendering for interactive applications
   ```
+  
 </div>
 
 <a id="ai-projects"></a>
