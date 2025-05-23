@@ -369,8 +369,8 @@ graph TD
 pie showData
     title "AI Expertise Distribution"
     "Deep Learning" : 30
-    "Computer Vision & 3D Vision" : 25
-    "Generative AI & LLMs" : 20
+    "Computer Vision & 3D Vision" : 20
+    "Generative AI & LLMs" : 25
     "MLOps & Deployment" : 15
     "Research & Development" : 10
  ```
