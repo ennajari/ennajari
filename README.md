@@ -137,29 +137,17 @@ Building production-ready AI systems that solve real-world problems. Researching
 
 ## **GitHub Statistics**
 
-<div align="center">
+<div>
 
   <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=ennajari&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
-<div align="center">
 
   <!-- GitHub Stats Cards -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ennajari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennajari&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-</div>
-
-<div align="center">
-
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ennajari&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="60%"/>
-
-</div>
-
-<div align="center">
 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ennajari&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
