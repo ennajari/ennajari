@@ -29,28 +29,33 @@
 
 ---
 
-## **About Me**
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🌟 **Professional Identity**
+My name is Abdellah Ennajari, an AI and Deep Learning Engineer based in Casablanca, Morocco. I am currently pursuing my degree in Artificial Intelligence Engineering at ENIAD (École Nationale d'Intelligence Artificielle et du Digital), graduating in 2026. My academic background includes a Bachelor's degree in Mathematics and Computer Science.
 
-**Name:** Abdellah ENNAJARI  
-**Role:** AI & Deep Learning Engineer  
-**Location:** Casablanca, Morocco 🇲🇦
+I specialize in building production-ready AI systems with expertise in Computer Vision, Natural Language Processing, Large Language Models, and MLOps. My technical stack includes TensorFlow, PyTorch, OpenCV, LangChain, and various deployment tools like Docker and Kubernetes.
 
-**📧 Contact:**
-- Email: abdellahennajari2018@gmail.com
-- Phone: +212 667 156 625
-- LinkedIn: [ennajari-abdellah](https://www.linkedin.com/in/ennajari-abdellah)
-- GitHub: [ennajari](https://github.com/ennajari)
+Throughout my academic journey, I have completed three successful industry internships at Exakis Nelite, 3D Smart Factory, and HGS-Hightech, where I developed intelligent systems ranging from OCR document processing to 3D object classification with 97% accuracy. I am passionate about transforming cutting-edge AI research into practical solutions that solve real-world problems.
 
-**🎓 Education:**
-- **Current:** ENIAD - École Nationale d'IA & Digital (2023-2026)
-- **Degree:** AI Engineering
-- **Previous:** BSc Mathematics & Computer Science
+Currently, I am seeking a 6-month PFE internship (February-July 2026) where I can contribute my skills in AI/ML engineering while continuing to learn and grow in a dynamic environment.
 
-### 🔧 **Core Expertise**
+### Contact Information
+
+**Email:** abdellahennajari2018@gmail.com  
+**Phone:** +212 667 156 625  
+**LinkedIn:** [ennajari-abdellah](https://www.linkedin.com/in/ennajari-abdellah)  
+**GitHub:** [ennajari](https://github.com/ennajari)  
+**Portfolio:** [ennajari.github.io/AI_Engineer](https://ennajari.github.io/AI_Engineer/)
+
+### Education
+
+**Current:** ENIAD - École Nationale d'Intelligence Artificielle et du Digital (2023-2026)  
+**Degree:** AI Engineering  
+**Previous:** BSc Mathematics & Computer Science
+
+### Core Expertise
 
 **AI Frameworks:** TensorFlow, PyTorch, Transformers, HuggingFace  
 **Computer Vision:** OpenCV, YOLO, CNN/LSTM, 3D Vision, OCR  
@@ -60,19 +65,17 @@
 **Data Science:** Pandas, NumPy, Spark, ETL/ELT, DVC  
 **Programming Languages:** Python, C++, Java, SQL, NoSQL
 
-### **Current Mission**
+### Current Mission
 
-> Building production-ready AI systems that solve real-world problems  
-> Researching cutting-edge Generative AI and LLM applications  
-> Transforming innovative ideas into deployed solutions
+Building production-ready AI systems that solve real-world problems. Researching cutting-edge Generative AI and LLM applications. Transforming innovative ideas into deployed solutions that create measurable business impact.
 
-### **What I Do Best**
+### Areas of Expertise
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-#### 🤖 **AI & Machine Learning**
+#### AI & Machine Learning
 - Deep Learning Architecture Design
 - Model Training & Optimization
 - Transfer Learning & Fine-tuning
@@ -82,10 +85,10 @@
     </td>
     <td width="50%" valign="top">
 
-#### 👁️ **Computer Vision**
+#### Computer Vision
 - Image Classification & Detection
 - Video Analysis & Tracking
-- 3D Object Recognition (97% accuracy!)
+- 3D Object Recognition (97% accuracy)
 - OCR & Document Processing
 - Image Segmentation & Generation
 
@@ -94,7 +97,7 @@
   <tr>
     <td width="50%" valign="top">
 
-#### 🧠 **NLP & LLMs**
+#### NLP & LLMs
 - Large Language Model Fine-tuning
 - RAG (Retrieval Augmented Generation)
 - Multi-Agent Systems (CrewAI)
@@ -104,7 +107,7 @@
     </td>
     <td width="50%" valign="top">
 
-#### 🚀 **MLOps & Production**
+#### MLOps & Production
 - Docker & Containerization
 - Model Deployment & Serving
 - CI/CD for ML Pipelines
@@ -160,18 +163,6 @@
 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ennajari&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-### **Contribution Snake Game**
-
-<div align="center">
-
-  ![Snake animation](https://raw.githubusercontent.com/ennajari/ennajari/output/github-contribution-grid-snake-dark.svg)
-
-  <sub>Watch the snake eat my contributions!</sub>
 
 </div>
 
@@ -285,39 +276,15 @@ gantt
 
 <div align="center">
 
-  ### 💭 **Quote I Live By**
+  ### Quote I Live By
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Quote" />
 
   ---
 
-  ### 🎮 **Fun Fact**
+  <h3>"Code • Train • Deploy • Repeat"</h3>
 
-  <details>
-  <summary>🎯 Click to reveal!</summary>
-  <br>
-  <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQ0aWU4YjJybndrNWt3eXRmYWFpaWNvenR3bmdocmxyZ3V3ZWl0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300">
-    <br><br>
-    <b>🤖 I debug code faster than I debug my life!</b>
-    <br>
-    <sub>When I'm not training neural networks, I'm probably training myself to drink more coffee ☕</sub>
-  </div>
-  </details>
-
-  ---
-
-  ### 📊 **Profile Stats**
-
-  <sub>Thanks for visiting! You are visitor number:</sub>
-  <br>
-  <img src="https://profile-counter.glitch.me/ennajari/count.svg" alt="Visitor Count" />
-
-  ---
-
-  <h3>⚡ "Code • Train • Deploy • Repeat" ⚡</h3>
-
-  <sub>⭐️ From [ennajari](https://github.com/ennajari) with 💙</sub>
+  <sub>From [ennajari](https://github.com/ennajari)</sub>
 
   <!-- Animated Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
