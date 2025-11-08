@@ -45,7 +45,7 @@
 - LinkedIn: [ennajari-abdellah](https://www.linkedin.com/in/ennajari-abdellah)
 - GitHub: [ennajari](https://github.com/ennajari)
 
-**🎓 Education:**
+** Education:**
 - **Current:** ENIAD - École Nationale d'IA & Digital (2023-2026)
 - **Degree:** AI Engineering
 - **Previous:** BSc Mathematics & Computer Science
