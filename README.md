@@ -8,7 +8,7 @@
 <!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%A4%96+AI+%26+Deep+Learning+Engineer;%F0%9F%91%81+Computer+Vision+Specialist+%7C+3D+Vision;%F0%9F%A7%A0+LLMs+%26+Generative+AI+Expert;%F0%9F%9A%80+MLOps+%7C+Transforming+Ideas+into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&random=false&width=800&lines=AI+%26+Deep+Learning+Engineer;Computer+Vision+Specialist;3D+Vision+Expert;LLMs+%26+Generative+AI;MLOps+Engineer;Transforming+Ideas+into+Reality" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,24 +33,24 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### **Professional Identity**
+### 🌟 **Professional Identity**
 
 **Name:** Abdellah ENNAJARI  
 **Role:** AI & Deep Learning Engineer  
 **Location:** Casablanca, Morocco 🇲🇦
 
-** Contact:**
+**📧 Contact:**
 - Email: abdellahennajari2018@gmail.com
 - Phone: +212 667 156 625
 - LinkedIn: [ennajari-abdellah](https://www.linkedin.com/in/ennajari-abdellah)
 - GitHub: [ennajari](https://github.com/ennajari)
 
-** Education:**
+**🎓 Education:**
 - **Current:** ENIAD - École Nationale d'IA & Digital (2023-2026)
 - **Degree:** AI Engineering
 - **Previous:** BSc Mathematics & Computer Science
 
-### **Core Expertise**
+### 🔧 **Core Expertise**
 
 **AI Frameworks:** TensorFlow, PyTorch, Transformers, HuggingFace  
 **Computer Vision:** OpenCV, YOLO, CNN/LSTM, 3D Vision, OCR  
@@ -72,7 +72,7 @@
   <tr>
     <td width="50%" valign="top">
 
-#### **AI & Machine Learning**
+#### 🤖 **AI & Machine Learning**
 - Deep Learning Architecture Design
 - Model Training & Optimization
 - Transfer Learning & Fine-tuning
@@ -82,7 +82,7 @@
     </td>
     <td width="50%" valign="top">
 
-#### **Computer Vision**
+#### 👁️ **Computer Vision**
 - Image Classification & Detection
 - Video Analysis & Tracking
 - 3D Object Recognition (97% accuracy!)
@@ -94,7 +94,7 @@
   <tr>
     <td width="50%" valign="top">
 
-#### **NLP & LLMs**
+#### 🧠 **NLP & LLMs**
 - Large Language Model Fine-tuning
 - RAG (Retrieval Augmented Generation)
 - Multi-Agent Systems (CrewAI)
@@ -104,7 +104,7 @@
     </td>
     <td width="50%" valign="top">
 
-#### **MLOps & Production**
+#### 🚀 **MLOps & Production**
 - Docker & Containerization
 - Model Deployment & Serving
 - CI/CD for ML Pipelines
@@ -285,21 +285,21 @@ gantt
 
 <div align="center">
 
-  ### **Quote I Live By**
+  ### 💭 **Quote I Live By**
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Quote" />
 
   ---
 
-  ### **Fun Fact**
+  ### 🎮 **Fun Fact**
 
   <details>
-  <summary> Click to reveal!</summary>
+  <summary>🎯 Click to reveal!</summary>
   <br>
   <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQ0aWU4YjJybndrNWt3eXRmYWFpaWNvenR3bmdocmxyZ3V3ZWl0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300">
     <br><br>
-    <b> I debug code faster than I debug my life!</b>
+    <b>🤖 I debug code faster than I debug my life!</b>
     <br>
     <sub>When I'm not training neural networks, I'm probably training myself to drink more coffee ☕</sub>
   </div>
@@ -307,7 +307,7 @@ gantt
 
   ---
 
-  ###  **Profile Stats**
+  ### 📊 **Profile Stats**
 
   <sub>Thanks for visiting! You are visitor number:</sub>
   <br>
@@ -315,9 +315,9 @@ gantt
 
   ---
 
-  <h3> "Code • Train • Deploy • Repeat" </h3>
+  <h3>⚡ "Code • Train • Deploy • Repeat" ⚡</h3>
 
-  <sub> [ennajari](https://github.com/ennajari) </sub>
+  <sub>⭐️ From [ennajari](https://github.com/ennajari) with 💙</sub>
 
   <!-- Animated Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
