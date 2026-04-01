@@ -109,30 +109,6 @@ Spécialisé dans la construction de systèmes IA production-ready : **Computer 
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
-<!-- ═══════════════════════════════ METRICS ═══════════════════════════════ -->
-
-<div align="center">
-
-### Résultats Mesurables
-
-</div>
-
-<br/>
-
-<p align="center">
-<img src="https://img.shields.io/badge/97%25-Précision_Classification_3D-58A6FF?style=for-the-badge&logo=pytorch&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/–60%25-Réduction_Temps_OCR-3FB950?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/–75%25-Appels_LLM_via_RAG_Skip-D2A8FF?style=for-the-badge&logo=openai&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/0-Hallucinations_Prix_Production-F78166?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-</p>
-
-<br/>
-
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
-
 <!-- ═══════════════════════════════ PROJECTS ═══════════════════════════════ -->
 
 <div align="center">
@@ -192,10 +168,11 @@ Spécialisé dans la construction de systèmes IA production-ready : **Computer 
 
 <br/><br/>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" width="100%">
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ennajari&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=3FB950&area_color=58A6FF" width="100%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ennajari&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
