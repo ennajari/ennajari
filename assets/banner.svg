@@ -768,8 +768,8 @@
 
   <!-- Text overlay -->
   <text class="name-text" x="600" y="108" text-anchor="middle">Abdellah Ennajari</text>
-  <text class="sub-text" x="600" y="130" text-anchor="middle">MARRAKECH, MAROC</text>
-  <text class="weather-text" x="1180" y="16" text-anchor="end">78°C  Clear Sky</text>
-  <text class="weather-text" x="1180" y="30" text-anchor="end">4:06 PM GMT+1</text>
+  <text class="sub-text" x="600" y="130" text-anchor="middle">CASABLANCA, MAROC</text>
+  <text class="weather-text" x="1180" y="16" text-anchor="end">38°C  Clear Sky</text>
+  <text class="weather-text" x="1180" y="30" text-anchor="end">11:14 AM GMT+1</text>
   </g>
 </svg>

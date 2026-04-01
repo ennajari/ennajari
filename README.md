@@ -1,14 +1,25 @@
 <p align="center">
-<img src="./assets/banner.svg" alt="Marrakech Skyline — Live Weather" width="100%"/>
+<img src="./assets/banner.svg" alt="Casablanca Skyline — Live Weather" width="100%"/>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Ingenieur+IA+Production-Grade;RAG+%7C+Multi-Agents+%7C+MLOps;ENIAD+2026+%7C+Disponible+en+France;97%25+Precision+Classification+3D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=30&lines=AI+%26+Deep+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+LLMs+%7C+MLOps;RAG+%7C+Multi-Agents+%7C+Fine-tuning;ENIAD+2026+%7C+Open+to+Opportunities" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/abdellah-ennajari"><img src="https://img.shields.io/badge/LinkedIn-abdellah--ennajari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:abdellahennajari2018@gmail.com"><img src="https://img.shields.io/badge/Email-abdellahennajari2018@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=ennajari&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/ennajari?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS" alt="GitHub Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/ennajari?style=for-the-badge&color=3FB950&labelColor=0D1117&label=STARS" alt="GitHub Stars"/>
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/ennajari-abdellah"><img src="https://img.shields.io/badge/LinkedIn-ennajari--abdellah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://ennajari.github.io/AI_Engineer"><img src="https://img.shields.io/badge/Portfolio-ennajari.github.io-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:abdellahennajari2018@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://huggingface.co/ennajari"><img src="https://img.shields.io/badge/HuggingFace-ennajari-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Location-Casablanca%2C_Morocco-3FB950?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 <br/>
@@ -23,13 +34,15 @@
 
 ### À Propos
 
-**Ingénieur IA production-grade** — architectures RAG, systèmes multi-agents, pipelines MLOps et Vision par Ordinateur
+**AI & Deep Learning Engineer** basé à **Casablanca, Maroc**
 
-Diplômé **Ingénieur IA (ENIAD 2026)** avec **4 stages** en ML, NLP et Computer Vision
+Étudiant en **Ingénierie IA** à **ENIAD** (École Nationale d'Intelligence Artificielle et du Digital), diplôme 2026. Formation antérieure : **Licence Mathématiques & Informatique**.
 
-Du prototypage à la production : **97% précision** classification dentaire 3D, **–60% temps traitement OCR**, chatbot WhatsApp IA en production
+Spécialisé dans la construction de systèmes IA production-ready : **Computer Vision**, **NLP**, **LLMs**, **MLOps**. Stages chez **Exakis Nelite**, **3D Smart Factory** et **HGS-Hightech**.
 
-**Disponible pour relocation en France**
+97% précision classification 3D · –60% temps traitement OCR · RAG en production
+
+**Open to opportunities — PFE Internship Feb–Jul 2026**
 
 <br/>
 
@@ -37,18 +50,25 @@ Du prototypage à la production : **97% précision** classification dentaire 3D,
 
 **Langages** &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 **IA / ML** &nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
 **LLMs / RAG** &nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+
+**Data** &nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 
 **Backend** &nbsp;
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -57,7 +77,9 @@ Du prototypage à la production : **97% précision** classification dentaire 3D,
 
 **MLOps** &nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
 **Cloud** &nbsp;
@@ -178,6 +200,36 @@ Du prototypage à la production : **97% précision** classification dentaire 3D,
 </div>
 
 <br/>
+
+<!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
+
+<div align="center">
+
+### Let's Connect!
+
+<p>
+<a href="https://linkedin.com/in/ennajari-abdellah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://github.com/ennajari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://ennajari.github.io/AI_Engineer"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="https://huggingface.co/ennajari"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>&nbsp;
+<a href="mailto:abdellahennajari2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<br/>
+
+**Open For**
+
+![PFE Internship](https://img.shields.io/badge/PFE_Internship-Feb--Jul_2026-58A6FF?style=flat-square)
+![Collaborations](https://img.shields.io/badge/Collaborations-AI%2FML_Projects-3FB950?style=flat-square)
+![Research](https://img.shields.io/badge/Research-AI_%26_Deep_Learning-D2A8FF?style=flat-square)
+
+<br/>
+
+> *"Code • Train • Deploy • Repeat"*
+>
+> — Abdellah Ennajari
+
+</div>
 
 <!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
 

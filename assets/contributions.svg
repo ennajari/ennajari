@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <!-- Background -->
+  <rect width="1200" height="520" rx="16" fill="#0D1117"/>
+
+  <!-- Top accent line -->
+  <defs>
+    <linearGradient id="topLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#58A6FF" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#D2A8FF" stop-opacity="0.6"/>
+      <stop offset="80%" stop-color="#3FB950" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#3FB950" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="520" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+  <rect width="1200" height="520" fill="#0D1117"/>
+  <rect x="0" y="0" width="1200" height="2" fill="url(#topLine)"/>
+
+  <!-- Title row -->
+  <text x="35" y="42" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#E6EDF3">Open Source Contributions</text>
+  <text x="35" y="60" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8B949E">Bug fixes, features, and tests contributed to major AI/ML projects</text>
+
+  <!-- Summary badges -->
+  <g transform="translate(820, 22)">
+    <rect x="0" y="0" width="80" height="28" rx="6" fill="#58A6FF" opacity="0.1" stroke="#58A6FF" stroke-width="0.5" stroke-opacity="0.3"/>
+    <text x="40" y="14" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#58A6FF">11</text>
+    <text x="40" y="25" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="7" fill="#8B949E">PULL REQUESTS</text>
+
+    <rect x="95" y="0" width="80" height="28" rx="6" fill="#3FB950" opacity="0.1" stroke="#3FB950" stroke-width="0.5" stroke-opacity="0.3"/>
+    <text x="135" y="14" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#3FB950">6</text>
+    <text x="135" y="25" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="7" fill="#8B949E">REPOSITORIES</text>
+
+    <rect x="190" y="0" width="80" height="28" rx="6" fill="#E3B341" opacity="0.1" stroke="#E3B341" stroke-width="0.5" stroke-opacity="0.3"/>
+    <text x="230" y="14" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#E3B341">470K+</text>
+    <text x="230" y="25" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="7" fill="#8B949E">COMBINED STARS</text>
+
+    <rect x="285" y="0" width="80" height="28" rx="6" fill="#D2A8FF" opacity="0.1" stroke="#D2A8FF" stroke-width="0.5" stroke-opacity="0.3"/>
+    <text x="325" y="14" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#D2A8FF">AI/ML</text>
+    <text x="325" y="25" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="7" fill="#8B949E">FOCUS AREA</text>
+  </g>
+
+  <!-- Column headers -->
+  <line x1="25" y1="72" x2="1175" y2="72" stroke="#30363D" stroke-width="1"/>
+  <text x="35" y="88" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#8B949E" letter-spacing="1">PROJECT</text>
+  <text x="285" y="88" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#8B949E" letter-spacing="1">STARS</text>
+  <text x="355" y="88" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#8B949E" letter-spacing="1">CONTRIBUTIONS</text>
+  <line x1="25" y1="94" x2="1175" y2="94" stroke="#30363D" stroke-width="0.5"/>
+
+  <rect x="0" y="100" width="1200" height="68" fill="#161B22" opacity="0.3"/>
+  <circle cx="47" cy="128" r="18" fill="#58A6FF" opacity="0.12" stroke="#58A6FF" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="47" y="134" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" fill="#58A6FF">O</text>
+  <text x="77" y="122" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">OpenClaw</text>
+  <text x="77" y="138" font-family="'Segoe UI',sans-serif" font-size="10" fill="#8B949E">openclaw — AI gateway and agent platform</text>
+  <rect x="275" y="110" width="52" height="18" rx="9" fill="#E3B341" opacity="0.1" stroke="#E3B341" stroke-width="0.5" stroke-opacity="0.3"/>
+  <polygon points="285,115 286.5,118 289,118 287,120 288,123 285,121 282,123 283,120 281,118 283.5,118" fill="#E3B341" opacity="0.8"/>
+  <text x="310" y="123" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#E3B341">260K</text>
+  <circle cx="350" cy="119" r="4" fill="none" stroke="#58A6FF" stroke-width="1.2"/>
+  <circle cx="350" cy="119" r="1.5" fill="#58A6FF"/>
+  <text x="359" y="123" font-family="'Segoe UI',sans-serif" font-size="10" fill="#C9D1D9">test: add unit tests for copilot-proxy, qwen-portal-auth, mini...</text>
+  <text x="1165" y="123" text-anchor="end" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#58A6FF">#27783</text>
+  <circle cx="350" cy="137" r="4" fill="none" stroke="#58A6FF" stroke-width="1.2"/>
+  <circle cx="350" cy="137" r="1.5" fill="#58A6FF"/>
+  <text x="359" y="141" font-family="'Segoe UI',sans-serif" font-size="10" fill="#C9D1D9">chore: migrate eslint-disable comments to oxlint-disable</text>
+  <text x="1165" y="141" text-anchor="end" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#58A6FF">#27777</text>
+  <circle cx="47" cy="196" r="18" fill="#3FB950" opacity="0.12" stroke="#3FB950" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="47" y="202" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" fill="#3FB950">L</text>
+  <text x="77" y="190" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">LangChain</text>
+  <text x="77" y="206" font-family="'Segoe UI',sans-serif" font-size="10" fill="#8B949E">langchain-ai — LLM application framework</text>
+  <rect x="275" y="178" width="52" height="18" rx="9" fill="#E3B341" opacity="0.1" stroke="#E3B341" stroke-width="0.5" stroke-opacity="0.3"/>
+  <polygon points="285,183 286.5,186 289,186 287,188 288,191 285,189 282,191 283,188 281,186 283.5,186" fill="#E3B341" opacity="0.8"/>
+  <text x="310" y="191" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#E3B341">128K</text>
+  <circle cx="350" cy="187" r="4" fill="none" stroke="#58A6FF" stroke-width="1.2"/>
+  <circle cx="350" cy="187" r="1.5" fill="#58A6FF"/>
+  <text x="359" y="191" font-family="'Segoe UI',sans-serif" font-size="10" fill="#C9D1D9">fix: RunnableRetry.batch/abatch corrupted outputs on retry</text>
+  <text x="1165" y="191" text-anchor="end" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#58A6FF">#35556</text>
+  <circle cx="350" cy="205" r="4" fill="none" stroke="#58A6FF" stroke-width="1.2"/>
+  <circle cx="350" cy="205" r="1.5" fill="#58A6FF"/>
+  <text x="359" y="209" font-family="'Segoe UI',sans-serif" font-size="10" fill="#C9D1D9">fix: Streaming tool call empty args from SSE fragmentation</text>
+  <text x="1165" y="209" text-anchor="end" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#58A6FF">#35528</text>
+  <circle cx="350" cy="223" r="4" fill="none" stroke="#58A6FF" stroke-width="1.2"/>
+  <circle cx="350" cy="223" r="1.5" fill="#58A6FF"/>
+  <text x="359" y="227" font-family="'Segoe UI',sans-serif" font-size="10" fill="#C9D1D9">fix: PydanticOutputParser for HuggingFace structured output</text>
+  <text x="1165" y="227" text-anchor="end" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#58A6FF">#35484</text>
+  <rect x="0" y="254" width="1200" height="68" fill="#161B22" opacity="0.3"/>
+  <circle cx="47" cy="282" r="18" fill="#D2A8FF" opacity="0.12" stroke="#D2A8FF" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="47" y="288" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" fill="#D2A8FF">G</text>
+  <text x="77" y="276" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">GraphRAG</text>
+  <text x="77" y="292" font-family="'Segoe UI',sans-serif" font-size="10" fill="#8B949E">microsoft — Graph-based RAG by Microsoft</text>
+  <rect x="275" y="264" width="52" height="18" rx="9" fill="#E3B341" opacity="0.1" stroke="#E3B341" stroke-width="0.5" stroke-opacity="0.3"/>
+  <polygon points="285,269 286.5,272 289,272 287,274 288,277 285,275 282,277 283,274 281,272 283.5,272" fill="#E3B341" opacity="0.8"/>
+  <text x="310" y="277" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#E3B341">31K</text>
+  <circle cx="350" cy="273" r="4" fill="none" stroke="#58A6FF" stroke-width="1.2"/>
+  <circle cx="350" cy="273" r="1.5" fill="#58A6FF"/>
+  <text x="359" y="277" font-family="'Segoe UI',sans-serif" font-size="10" fill="#C9D1D9">fix: Incorrect entity deduplication with same title different ...</text>
+  <text x="1165" y="277" text-anchor="end" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#58A6FF">#2262</text>
+  <circle cx="47" cy="350" r="18" fill="#F78166" opacity="0.12" stroke="#F78166" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="47" y="356" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" fill="#F78166">G</text>
+  <text x="77" y="344" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">LangGraph</text>
+  <text x="77" y="360" font-family="'Segoe UI',sans-serif" font-size="10" fill="#8B949E">langchain-ai — Stateful multi-agent framework</text>
+  <rect x="275" y="332" width="52" height="18" rx="9" fill="#E3B341" opacity="0.1" stroke="#E3B341" stroke-width="0.5" stroke-opacity="0.3"/>
+  <polygon points="285,337 286.5,340 289,340 287,342 288,345 285,343 282,345 283,342 281,340 283.5,340" fill="#E3B341" opacity="0.8"/>
+  <text x="310" y="345" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#E3B341">26K</text>
+  <circle cx="350" cy="341" r="4" fill="none" stroke="#58A6FF" stroke-width="1.2"/>
+  <circle cx="350" cy="341" r="1.5" fill="#58A6FF"/>
+  <text x="359" y="345" font-family="'Segoe UI',sans-serif" font-size="10" fill="#C9D1D9">fix: ToolNode ainvoke freezes on sse_read_timeout</text>
+  <text x="1165" y="345" text-anchor="end" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#58A6FF">#7013</text>
+  <rect x="0" y="390" width="1200" height="68" fill="#161B22" opacity="0.3"/>
+  <circle cx="47" cy="418" r="18" fill="#E3B341" opacity="0.12" stroke="#E3B341" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="47" y="424" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" fill="#E3B341">D</text>
+  <text x="77" y="412" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">DeepEval</text>
+  <text x="77" y="428" font-family="'Segoe UI',sans-serif" font-size="10" fill="#8B949E">confident-ai — LLM evaluation framework</text>
+  <rect x="275" y="400" width="52" height="18" rx="9" fill="#E3B341" opacity="0.1" stroke="#E3B341" stroke-width="0.5" stroke-opacity="0.3"/>
+  <polygon points="285,405 286.5,408 289,408 287,410 288,413 285,411 282,413 283,410 281,408 283.5,408" fill="#E3B341" opacity="0.8"/>
+  <text x="310" y="413" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#E3B341">14K</text>
+  <circle cx="350" cy="409" r="4" fill="none" stroke="#58A6FF" stroke-width="1.2"/>
+  <circle cx="350" cy="409" r="1.5" fill="#58A6FF"/>
+  <text x="359" y="413" font-family="'Segoe UI',sans-serif" font-size="10" fill="#C9D1D9">fix: Support popular benchmarks</text>
+  <text x="1165" y="413" text-anchor="end" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#58A6FF">#2527</text>
+  <circle cx="47" cy="486" r="18" fill="#FF7B72" opacity="0.12" stroke="#FF7B72" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="47" y="492" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" fill="#FF7B72">C</text>
+  <text x="77" y="480" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">Cognee</text>
+  <text x="77" y="496" font-family="'Segoe UI',sans-serif" font-size="10" fill="#8B949E">topoteretes — Knowledge graph memory engine</text>
+  <rect x="275" y="468" width="52" height="18" rx="9" fill="#E3B341" opacity="0.1" stroke="#E3B341" stroke-width="0.5" stroke-opacity="0.3"/>
+  <polygon points="285,473 286.5,476 289,476 287,478 288,481 285,479 282,481 283,478 281,476 283.5,476" fill="#E3B341" opacity="0.8"/>
+  <text x="310" y="481" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#E3B341">13K</text>
+  <circle cx="350" cy="477" r="4" fill="none" stroke="#58A6FF" stroke-width="1.2"/>
+  <circle cx="350" cy="477" r="1.5" fill="#58A6FF"/>
+  <text x="359" y="481" font-family="'Segoe UI',sans-serif" font-size="10" fill="#C9D1D9">fix: Add usage frequency tracking for Kuzu adapter</text>
+  <text x="1165" y="481" text-anchor="end" font-family="'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="#58A6FF">#2263</text>
+
+
+  <!-- Bottom accent -->
+  <line x1="25" y1="480" x2="1175" y2="480" stroke="#30363D" stroke-width="0.5"/>
+  <text x="600.0" y="502" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" fill="#8B949E">
+    Contributing to the AI/ML open source ecosystem — LangChain, Microsoft GraphRAG, OpenClaw, and more
+  </text>
+  </g>
+
+  <!-- Border -->
+  <rect width="1200" height="520" rx="16" fill="none" stroke="#30363D" stroke-width="1"/>
+</svg>

@@ -14,8 +14,8 @@ from zoneinfo import ZoneInfo
 WIDTH = 1200
 HEIGHT = 300
 TIMEZONE = "Africa/Casablanca"
-LAT = 31.6295
-LON = -7.9811
+LAT = 33.5731
+LON = -7.5898
 WATER_Y = 255  # where the horizon starts
 
 # WMO weather codes → (main category, description)
@@ -57,7 +57,7 @@ def get_weather():
         f"https://api.open-meteo.com/v1/forecast"
         f"?latitude={LAT}&longitude={LON}"
         f"&current=temperature_2m,apparent_temperature,weather_code"
-        f"&temperature_unit=fahrenheit"
+        f"&temperature_unit=celsius"
     )
     resp = requests.get(url, timeout=10)
     resp.raise_for_status()
@@ -772,7 +772,7 @@ def generate_svg(weather_data, now):
 
   <!-- Text overlay -->
   <text class="name-text" x="600" y="108" text-anchor="middle">Abdellah Ennajari</text>
-  <text class="sub-text" x="600" y="130" text-anchor="middle">MARRAKECH, MAROC</text>
+  <text class="sub-text" x="600" y="130" text-anchor="middle">CASABLANCA, MAROC</text>
   <text class="weather-text" x="1180" y="16" text-anchor="end">{temp}{degree}C  {weather_desc.title()}</text>
   <text class="weather-text" x="1180" y="30" text-anchor="end">{time_str} GMT+1</text>
   </g>
@@ -789,8 +789,8 @@ def main():
     with open(out_path, "w") as f:
         f.write(svg)
 
-    print(f"Generated banner: {now.strftime('%Y-%m-%d %I:%M %p')} ET")
-    print(f"Weather: {weather['weather'][0]['description']}, {round(weather['main']['temp'])}F")
+    print(f"Generated banner: {now.strftime('%Y-%m-%d %I:%M %p')} GMT+1")
+    print(f"Weather: {weather['weather'][0]['description']}, {round(weather['main']['temp'])}C")
     print(f"Period: {get_time_period(now.hour)}")
 
 
