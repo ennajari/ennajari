@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="320" viewBox="0 0 580 320">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3FB950" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#3FB950" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#3FB950" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="card"><rect width="580" height="320" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <!-- Background -->
+    <rect width="580" height="320" fill="url(#bg)"/>
+    <rect x="0" y="0" width="580" height="1" fill="url(#accent-line)"/>
+
+    <!-- Header -->
+    <g transform="translate(24, 28)">
+      <circle cx="10" cy="10" r="10" fill="#3FB950" opacity="0.15"/><path d="M10 3 L16 6 L16 12 Q16 17 10 19 Q4 17 4 12 L4 6 Z" fill="none" stroke="#3FB950" stroke-width="1.5"/>
+      <text x="32" y="4" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#E6EDF3">WebScraping Crew</text>
+      <text x="32" y="22" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" fill="#8B949E">Automatisation Agents CrewAI</text>
+    </g>
+
+    <!-- Tag -->
+    <rect x="480" y="18" width="80" height="22" rx="11" fill="#3FB950" opacity="0.15"/>
+    <text x="520" y="33" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="600" fill="#3FB950">AUTOMATION</text>
+
+    <!-- Divider -->
+    <line x1="24" y1="58" x2="556" y2="58" stroke="#30363D" stroke-width="1"/>
+
+    <!-- Content -->
+    <g transform="translate(0, 68)">
+      <text x="30" y="12" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">PIPELINE WEBSCRAPING AUTOMATISE</text>
+      <rect x="30" y="22" width="110" height="36" rx="6" fill="#58A6FF" opacity="0.12" stroke="#58A6FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="85.0" y="40.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#58A6FF">URLs Cibles</text>
+      <text x="85.0" y="54.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">Config YAML</text>
+      <line x1="140" y1="40" x2="170" y2="40" stroke="#58A6FF" stroke-width="1" stroke-dasharray="3,2" opacity="0.4"/>
+      <rect x="170" y="22" width="120" height="36" rx="6" fill="#3FB950" opacity="0.12" stroke="#3FB950" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="230.0" y="40.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#3FB950">Scraper Agent</text>
+      <text x="230.0" y="54.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">BeautifulSoup + Sel.</text>
+      <line x1="290" y1="40" x2="320" y2="40" stroke="#3FB950" stroke-width="1" stroke-dasharray="3,2" opacity="0.4"/>
+      <rect x="320" y="22" width="115" height="36" rx="6" fill="#D2A8FF" opacity="0.12" stroke="#D2A8FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="377.5" y="40.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#D2A8FF">Data Processor</text>
+      <text x="377.5" y="54.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">Nettoyage + struct.</text>
+      <line x1="435" y1="40" x2="465" y2="40" stroke="#D2A8FF" stroke-width="1" stroke-dasharray="3,2" opacity="0.4"/>
+      <rect x="465" y="22" width="90" height="36" rx="6" fill="#F78166" opacity="0.12" stroke="#F78166" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="510.0" y="40.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#F78166">Output</text>
+      <text x="510.0" y="54.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">JSON / CSV</text>
+      <text x="30" y="82" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">CAPACITES</text>
+      <rect x="30" y="92" width="155" height="28" rx="6" fill="#3FB950" opacity="0.12" stroke="#3FB950" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="107.5" y="110.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#3FB950">Multi-sites parallele</text>
+      <rect x="195" y="92" width="145" height="28" rx="6" fill="#58A6FF" opacity="0.12" stroke="#58A6FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="267.5" y="110.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#58A6FF">Anti-detection</text>
+      <rect x="350" y="92" width="200" height="28" rx="6" fill="#D2A8FF" opacity="0.12" stroke="#D2A8FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="450.0" y="110.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#D2A8FF">Orchestration CrewAI</text>
+      <text x="30" y="142" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">STACK</text>
+      <rect x="30" y="152" width="90" height="24" rx="6" fill="#D2A8FF" opacity="0.12" stroke="#D2A8FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="75.0" y="168.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#D2A8FF">CrewAI</text>
+      <rect x="130" y="152" width="120" height="24" rx="6" fill="#58A6FF" opacity="0.12" stroke="#58A6FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="190.0" y="168.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#58A6FF">BeautifulSoup</text>
+      <rect x="260" y="152" width="110" height="24" rx="6" fill="#3FB950" opacity="0.12" stroke="#3FB950" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="315.0" y="168.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#3FB950">Selenium</text>
+      <rect x="380" y="152" width="80" height="24" rx="6" fill="#F78166" opacity="0.12" stroke="#F78166" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="420.0" y="168.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#F78166">Python</text>
+      <rect x="470" y="152" width="80" height="24" rx="6" fill="#FF7B72" opacity="0.12" stroke="#FF7B72" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="510.0" y="168.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#FF7B72">Pandas</text>
+      <text x="50" y="218" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#3FB950">Multi</text>
+      <text x="50" y="232" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">Sites en //</text>
+      <text x="170" y="218" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#D2A8FF">Auto</text>
+      <text x="170" y="232" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">Orchestration</text>
+      <text x="310" y="218" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#58A6FF">Struct.</text>
+      <text x="310" y="232" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">Donnees prop.</text>
+      <text x="430" y="218" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#F78166">YAML</text>
+      <text x="430" y="232" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">Config simple</text>
+    </g>
+  </g>
+
+  <!-- Border -->
+  <rect width="580" height="320" rx="16" fill="none" stroke="#30363D" stroke-width="1"/>
+</svg>

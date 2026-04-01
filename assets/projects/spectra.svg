@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="320" viewBox="0 0 580 320">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3FB950" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#3FB950" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#3FB950" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="card"><rect width="580" height="320" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <!-- Background -->
+    <rect width="580" height="320" fill="url(#bg)"/>
+    <rect x="0" y="0" width="580" height="1" fill="url(#accent-line)"/>
+
+    <!-- Header -->
+    <g transform="translate(24, 28)">
+      <circle cx="10" cy="10" r="10" fill="#FF7B72" opacity="0.15"/><line x1="10" y1="4" x2="10" y2="16" stroke="#FF7B72" stroke-width="1.5"/><line x1="4" y1="7" x2="16" y2="7" stroke="#FF7B72" stroke-width="1.5"/><circle cx="5" cy="10" r="2" fill="none" stroke="#FF7B72" stroke-width="1"/><circle cx="15" cy="10" r="2" fill="none" stroke="#FF7B72" stroke-width="1"/>
+      <text x="32" y="4" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#E6EDF3">OpenCV Course</text>
+      <text x="32" y="22" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" fill="#8B949E">Computer Vision avec Python</text>
+    </g>
+
+    <!-- Tag -->
+    <rect x="480" y="18" width="80" height="22" rx="11" fill="#3FB950" opacity="0.15"/>
+    <text x="520" y="33" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="600" fill="#3FB950">CV</text>
+
+    <!-- Divider -->
+    <line x1="24" y1="58" x2="556" y2="58" stroke="#30363D" stroke-width="1"/>
+
+    <!-- Content -->
+    <g transform="translate(0, 68)">
+      <text x="30" y="12" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">PIPELINE COMPUTER VISION</text>
+      <rect x="30" y="22" width="100" height="36" rx="6" fill="#3FB950" opacity="0.12" stroke="#3FB950" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="80.0" y="40.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#3FB950">Image Input</text>
+      <text x="80.0" y="54.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">Webcam / Fichier</text>
+      <line x1="130" y1="40" x2="160" y2="40" stroke="#3FB950" stroke-width="1" stroke-dasharray="3,2" opacity="0.4"/>
+      <rect x="160" y="22" width="120" height="36" rx="6" fill="#58A6FF" opacity="0.12" stroke="#58A6FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="220.0" y="40.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#58A6FF">Pre-traitement</text>
+      <text x="220.0" y="54.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">Resize + Normalize</text>
+      <line x1="280" y1="40" x2="310" y2="40" stroke="#58A6FF" stroke-width="1" stroke-dasharray="3,2" opacity="0.4"/>
+      <rect x="310" y="22" width="110" height="36" rx="6" fill="#D2A8FF" opacity="0.12" stroke="#D2A8FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="365.0" y="40.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#D2A8FF">Detection</text>
+      <text x="365.0" y="54.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">YOLO / CNN / HOG</text>
+      <line x1="420" y1="40" x2="450" y2="40" stroke="#D2A8FF" stroke-width="1" stroke-dasharray="3,2" opacity="0.4"/>
+      <rect x="450" y="22" width="100" height="36" rx="6" fill="#F78166" opacity="0.12" stroke="#F78166" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="500.0" y="40.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#F78166">Visualisation</text>
+      <text x="500.0" y="54.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">Annotations + UI</text>
+      <text x="30" y="82" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">SUJETS COUVERTS</text>
+      <rect x="30" y="92" width="130" height="28" rx="6" fill="#3FB950" opacity="0.12" stroke="#3FB950" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="95.0" y="110.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#3FB950">Detection objets</text>
+      <rect x="170" y="92" width="120" height="28" rx="6" fill="#58A6FF" opacity="0.12" stroke="#58A6FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="230.0" y="110.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#58A6FF">Segmentation</text>
+      <rect x="300" y="92" width="115" height="28" rx="6" fill="#D2A8FF" opacity="0.12" stroke="#D2A8FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="357.5" y="110.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#D2A8FF">Tracking temps reel</text>
+      <rect x="425" y="92" width="125" height="28" rx="6" fill="#F78166" opacity="0.12" stroke="#F78166" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="487.5" y="110.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#F78166">OCR + texte</text>
+      <text x="30" y="142" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">STACK</text>
+      <rect x="30" y="152" width="100" height="24" rx="6" fill="#58A6FF" opacity="0.12" stroke="#58A6FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="80.0" y="168.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#58A6FF">OpenCV</text>
+      <rect x="140" y="152" width="100" height="24" rx="6" fill="#3FB950" opacity="0.12" stroke="#3FB950" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="190.0" y="168.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#3FB950">Python</text>
+      <rect x="250" y="152" width="100" height="24" rx="6" fill="#D2A8FF" opacity="0.12" stroke="#D2A8FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="300.0" y="168.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#D2A8FF">TensorFlow</text>
+      <rect x="360" y="152" width="80" height="24" rx="6" fill="#F78166" opacity="0.12" stroke="#F78166" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="400.0" y="168.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#F78166">YOLO</text>
+      <rect x="450" y="152" width="100" height="24" rx="6" fill="#FF7B72" opacity="0.12" stroke="#FF7B72" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="500.0" y="168.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#FF7B72">Mediapipe</text>
+      <text x="50" y="218" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#3FB950">10+</text>
+      <text x="50" y="232" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">Projets CV</text>
+      <text x="170" y="218" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#58A6FF">95%+</text>
+      <text x="170" y="232" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">Precision</text>
+      <text x="310" y="218" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#D2A8FF">RT</text>
+      <text x="310" y="232" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">Temps reel</text>
+      <text x="430" y="218" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#F78166">Open</text>
+      <text x="430" y="232" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">Source</text>
+    </g>
+  </g>
+
+  <!-- Border -->
+  <rect width="580" height="320" rx="16" fill="none" stroke="#30363D" stroke-width="1"/>
+</svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="320" viewBox="0 0 580 320">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D2A8FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#D2A8FF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#D2A8FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="card"><rect width="580" height="320" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <!-- Background -->
+    <rect width="580" height="320" fill="url(#bg)"/>
+    <rect x="0" y="0" width="580" height="1" fill="url(#accent-line)"/>
+
+    <!-- Header -->
+    <g transform="translate(24, 28)">
+      <circle cx="10" cy="10" r="10" fill="#D2A8FF" opacity="0.15"/><circle cx="7" cy="7" r="2" fill="#D2A8FF"/><circle cx="13" cy="13" r="2" fill="#D2A8FF"/><circle cx="13" cy="7" r="2" fill="#D2A8FF"/><line x1="7" y1="7" x2="13" y2="13" stroke="#D2A8FF" stroke-width="1"/><line x1="7" y1="7" x2="13" y2="7" stroke="#D2A8FF" stroke-width="1"/>
+      <text x="32" y="4" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#E6EDF3">Article Generator</text>
+      <text x="32" y="22" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" fill="#8B949E">Data Flywheel Multi-Agents</text>
+    </g>
+
+    <!-- Tag -->
+    <rect x="480" y="18" width="80" height="22" rx="11" fill="#D2A8FF" opacity="0.15"/>
+    <text x="520" y="33" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="600" fill="#D2A8FF">MULTI-AGENT</text>
+
+    <!-- Divider -->
+    <line x1="24" y1="58" x2="556" y2="58" stroke="#30363D" stroke-width="1"/>
+
+    <!-- Content -->
+    <g transform="translate(0, 68)">
+      <text x="30" y="12" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">PIPELINE MULTI-AGENTS (CREWAI)</text>
+      <rect x="200" y="20" width="160" height="30" rx="6" fill="#D2A8FF" opacity="0.12" stroke="#D2A8FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="280.0" y="35.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#D2A8FF">Orchestrateur</text>
+      <text x="280.0" y="49.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">Planification taches</text>
+      <line x1="240" y1="50" x2="80" y2="76" stroke="#D2A8FF" stroke-width="1" stroke-dasharray="3,2" opacity="0.4"/>
+      <line x1="270" y1="50" x2="200" y2="76" stroke="#D2A8FF" stroke-width="1" stroke-dasharray="3,2" opacity="0.4"/>
+      <line x1="300" y1="50" x2="340" y2="76" stroke="#D2A8FF" stroke-width="1" stroke-dasharray="3,2" opacity="0.4"/>
+      <line x1="330" y1="50" x2="470" y2="76" stroke="#D2A8FF" stroke-width="1" stroke-dasharray="3,2" opacity="0.4"/>
+      <rect x="30" y="76" width="110" height="30" rx="6" fill="#58A6FF" opacity="0.12" stroke="#58A6FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="85.0" y="91.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#58A6FF">Chercheur</text>
+      <text x="85.0" y="105.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">Web search + RAG</text>
+      <rect x="150" y="76" width="110" height="30" rx="6" fill="#3FB950" opacity="0.12" stroke="#3FB950" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="205.0" y="91.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#3FB950">Redacteur</text>
+      <text x="205.0" y="105.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">Generation article</text>
+      <rect x="280" y="76" width="110" height="30" rx="6" fill="#F78166" opacity="0.12" stroke="#F78166" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="335.0" y="91.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#F78166">Editeur</text>
+      <text x="335.0" y="105.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">Qualite + style</text>
+      <rect x="410" y="76" width="130" height="30" rx="6" fill="#FF7B72" opacity="0.12" stroke="#FF7B72" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="475.0" y="91.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#FF7B72">Optimiseur</text>
+      <text x="475.0" y="105.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">SEO + lisibilite</text>
+      <text x="30" y="128" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">DATA FLYWHEEL AUTO-AMELIORANT</text>
+      <rect x="30" y="138" width="155" height="28" rx="6" fill="#3FB950" opacity="0.12" stroke="#3FB950" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="107.5" y="152.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#3FB950">Feedback Loop</text>
+      <text x="107.5" y="166.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">Evaluation qualite</text>
+      <line x1="185" y1="152" x2="215" y2="152" stroke="#3FB950" stroke-width="1" stroke-dasharray="3,2" opacity="0.4"/>
+      <rect x="215" y="138" width="145" height="28" rx="6" fill="#D2A8FF" opacity="0.12" stroke="#D2A8FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="287.5" y="156.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#D2A8FF">Fine-tuning continu</text>
+      <line x1="360" y1="152" x2="390" y2="152" stroke="#D2A8FF" stroke-width="1" stroke-dasharray="3,2" opacity="0.4"/>
+      <rect x="390" y="138" width="160" height="28" rx="6" fill="#58A6FF" opacity="0.12" stroke="#58A6FF" stroke-width="0.5" stroke-opacity="0.3"/>
+      <text x="470.0" y="152.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#58A6FF">+40% pertinence</text>
+      <text x="470.0" y="166.0" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="8" fill="#8B949E">vs baseline</text>
+      <text x="50" y="218" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#D2A8FF">4</text>
+      <text x="50" y="232" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">Agents IA</text>
+      <text x="170" y="218" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#3FB950">+40%</text>
+      <text x="170" y="232" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">Pertinence</text>
+      <text x="310" y="218" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#58A6FF">Auto</text>
+      <text x="310" y="232" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">Data Flywheel</text>
+      <text x="430" y="218" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#F78166">Prod</text>
+      <text x="430" y="232" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8B949E">Ready</text>
+    </g>
+  </g>
+
+  <!-- Border -->
+  <rect width="580" height="320" rx="16" fill="none" stroke="#30363D" stroke-width="1"/>
+</svg>
