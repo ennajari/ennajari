@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=30&lines=AI+%26+Deep+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+LLMs+%7C+MLOps;RAG+%7C+Multi-Agents+%7C+Fine-tuning;ENIAD+2026+%7C+Open+to+Opportunities" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=30&lines=AI+%26+Deep+Learning+Engineer;IA+G%C3%A9n%C3%A9rative+%7C+Syst%C3%A8mes+Agentiques+%7C+LLMs;Computer+Vision+%7C+NLP+%7C+MLOps;RAG+%7C+Multi-Agents+%7C+Fine-tuning+(DPO%2FLoRA);PFE+BAAM+Construction+%7C+ENIAD+2026" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -34,15 +34,16 @@
 
 ### À Propos
 
-**AI & Deep Learning Engineer** basé à **Casablanca, Maroc**
+**Ingénieur IA — IA Générative, Systèmes Agentiques & LLMs en production**  
+Basé à **Casablanca, Maroc** · Mobilité France entière
 
-Étudiant en **Ingénierie IA** à **ENIAD** (École Nationale d'Intelligence Artificielle et du Digital), diplôme 2026. Formation antérieure : **Licence Mathématiques & Informatique**.
+Étudiant en **Ingénierie IA** à **ENIAD** (École Nationale d'Intelligence Artificielle et du Digital, Berkane), diplôme 2026. Formation antérieure : **Licence Mathématiques & Informatique** — Université Ibn Zohr, Ouarzazate.
 
-Spécialisé dans la construction de systèmes IA production-ready : **Computer Vision**, **NLP**, **LLMs**, **MLOps**. Stages chez **Exakis Nelite**, **3D Smart Factory** et **HGS-Hightech**.
+4 stages en entreprise, du prototypage à la production : **BAAM Construction**, **Exakis Nelite**, **3D Smart Factory** et **HGS-Hightech**. Spécialisé en systèmes LLM déployés, architectures RAG et Computer Vision 3D.
 
-97% précision classification 3D · –60% temps traitement OCR · RAG en production
+97% accuracy classification 3D · –60% traitement OCR · –75% appels LLM · RAG en production
 
-**Open to opportunities — PFE Internship Feb–Jul 2026**
+**Stage PFE en cours — BAAM Construction, Marrakech (Fév–Jul 2026)**
 
 <br/>
 
@@ -64,6 +65,9 @@ Spécialisé dans la construction de systèmes IA production-ready : **Computer 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Langfuse-FF6B35?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
 
 **Data** &nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -195,8 +199,13 @@ Spécialisé dans la construction de systèmes IA production-ready : **Computer 
 <th align="center">Année</th>
 </tr>
 <tr>
-<td>AI Infrastructure & Operations</td>
-<td><img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white"/> via Coursera</td>
+<td>Build RAG Applications & Generative AI</td>
+<td><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white"/></td>
+<td align="center">2026</td>
+</tr>
+<tr>
+<td>Fine-tune LLM Azure AI</td>
+<td><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></td>
 <td align="center">2025</td>
 </tr>
 <tr>
@@ -205,14 +214,14 @@ Spécialisé dans la construction de systèmes IA production-ready : **Computer 
 <td align="center">2025</td>
 </tr>
 <tr>
+<td>AI Infrastructure & Operations</td>
+<td><img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white"/> via Coursera</td>
+<td align="center">2025</td>
+</tr>
+<tr>
 <td>Professional Machine Learning Certificate</td>
 <td><img src="https://img.shields.io/badge/365_Data_Science-E84393?style=flat-square&logo=databricks&logoColor=white"/></td>
 <td align="center">2024</td>
-</tr>
-<tr>
-<td>Full-Stack Web Development</td>
-<td><img src="https://img.shields.io/badge/YouCode_Morocco-3FB950?style=flat-square&logo=github&logoColor=white"/></td>
-<td align="center">2023</td>
 </tr>
 </table>
 
@@ -236,10 +245,19 @@ Spécialisé dans la construction de systèmes IA production-ready : **Computer 
 
 **Open For**
 
-![PFE Internship](https://img.shields.io/badge/PFE_Internship-Feb--Jul_2026-58A6FF?style=flat-square)
+![PFE en cours](https://img.shields.io/badge/PFE_en_cours-BAAM_Construction-58A6FF?style=flat-square)
 ![Collaborations](https://img.shields.io/badge/Collaborations-AI%2FML_Projects-3FB950?style=flat-square)
-![Research](https://img.shields.io/badge/Research-AI_%26_Deep_Learning-D2A8FF?style=flat-square)
+![Research](https://img.shields.io/badge/Research-IA_G%C3%A9n%C3%A9rative_%26_LLMs-D2A8FF?style=flat-square)
 ![Consulting](https://img.shields.io/badge/Consulting-ML%2FAI_Solutions-F78166?style=flat-square)
+
+<br/>
+
+**Langues**
+
+![Français](https://img.shields.io/badge/Français-C1_Professionnel-0A66C2?style=flat-square)
+![Anglais](https://img.shields.io/badge/Anglais-B2%2B_Technique-3FB950?style=flat-square)
+![Arabe](https://img.shields.io/badge/Arabe-Courant-E3B341?style=flat-square)
+![Tamazight](https://img.shields.io/badge/Tamazight-Natif-D2A8FF?style=flat-square)
 
 <br/>
 
