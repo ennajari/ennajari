@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Generate a dynamic Marrakech skyline SVG based on current weather and time.
+"""Generate a dynamic Casablanca skyline SVG based on current weather and time.
 
-Features a multi-layered 3D skyline with recognizable Marrakech landmarks,
+Features a multi-layered 3D skyline with recognizable Casablanca landmarks,
 atmospheric perspective, and dynamic weather/lighting.
 """
 

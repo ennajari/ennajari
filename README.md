@@ -176,6 +176,46 @@ Spécialisé dans la construction de systèmes IA production-ready : **Computer 
 
 </div>
 
+<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+
+<!-- ═══════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
+
+<div align="center">
+
+### Certifications & Formation
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<th align="left">Certification</th>
+<th align="left">Organisme</th>
+<th align="center">Année</th>
+</tr>
+<tr>
+<td>AI Infrastructure & Operations</td>
+<td><img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white"/> via Coursera</td>
+<td align="center">2025</td>
+</tr>
+<tr>
+<td>Natural Language Processing Specialization</td>
+<td><img src="https://img.shields.io/badge/DeepLearning.AI-0194E2?style=flat-square&logo=deeplearning.ai&logoColor=white"/></td>
+<td align="center">2025</td>
+</tr>
+<tr>
+<td>Professional Machine Learning Certificate</td>
+<td><img src="https://img.shields.io/badge/365_Data_Science-E84393?style=flat-square&logo=databricks&logoColor=white"/></td>
+<td align="center">2024</td>
+</tr>
+<tr>
+<td>Full-Stack Web Development</td>
+<td><img src="https://img.shields.io/badge/YouCode_Morocco-3FB950?style=flat-square&logo=github&logoColor=white"/></td>
+<td align="center">2023</td>
+</tr>
+</table>
+
 <br/>
 
 <!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
@@ -199,6 +239,7 @@ Spécialisé dans la construction de systèmes IA production-ready : **Computer 
 ![PFE Internship](https://img.shields.io/badge/PFE_Internship-Feb--Jul_2026-58A6FF?style=flat-square)
 ![Collaborations](https://img.shields.io/badge/Collaborations-AI%2FML_Projects-3FB950?style=flat-square)
 ![Research](https://img.shields.io/badge/Research-AI_%26_Deep_Learning-D2A8FF?style=flat-square)
+![Consulting](https://img.shields.io/badge/Consulting-ML%2FAI_Solutions-F78166?style=flat-square)
 
 <br/>
 
