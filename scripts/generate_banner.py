@@ -786,7 +786,7 @@ def main():
 
     out_path = os.path.join(os.path.dirname(__file__), "..", "assets", "banner.svg")
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    with open(out_path, "w") as f:
+    with open(out_path, "w", encoding="utf-8") as f:
         f.write(svg)
 
     print(f"Generated banner: {now.strftime('%Y-%m-%d %I:%M %p')} GMT+1")
