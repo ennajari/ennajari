@@ -372,7 +372,7 @@ def card_mini_llm():
         _metric(430, 218, "Exp.", "MLflow track", ACCENT4),
     ])
     return card_shell(
-        "Mini LLM", "Fine-tuning & Architecture LLM", "LLM", ACCENT,
+        "Mini LLM", "Fine-tuning &amp; Architecture LLM", "LLM", ACCENT,
         inner, icon_graph()
     )
 
@@ -436,7 +436,7 @@ def main():
     for name, fn in cards.items():
         svg = fn()
         path = os.path.join(OUT_DIR, f"{name}.svg")
-        with open(path, "w") as f:
+        with open(path, "w", encoding="utf-8") as f:
             f.write(svg)
         print(f"Generated {path}")
 

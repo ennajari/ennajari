@@ -258,7 +258,7 @@ def generate():
 </svg>"""
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    with open(OUT, "w") as f:
+    with open(OUT, "w", encoding="utf-8") as f:
         f.write(svg)
     print(f"Generated {OUT}")
 
