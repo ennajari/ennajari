@@ -43,7 +43,7 @@ Basé à **Casablanca, Maroc** · Mobilité France entière
 
 97% accuracy classification 3D · –60% traitement OCR · –75% appels LLM · RAG en production
 
-**Stage PFE en cours — BAAM Construction, Marrakech (Fév–Jul 2026)**
+**Stage PFE en cours — BAAM Construction, Marrakech (Fév– présent 2026)**
 
 <br/>
 
