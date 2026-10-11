@@ -113,38 +113,6 @@ Basé à **Casablanca, Maroc** · Mobilité France entière
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
-<!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
-
-<div align="center">
-
-### Let's Connect!
-
-<p>
-<a href="https://linkedin.com/in/ennajari-abdellah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://github.com/ennajari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="https://ennajari.github.io/AI_Engineer"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>&nbsp;
-<a href="https://huggingface.co/ennajari"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>&nbsp;
-<a href="mailto:abdellahennajari2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<br/>
-
-**Open For**
-
-![PFE en cours](https://img.shields.io/badge/PFE_en_cours-BAAM_Construction-58A6FF?style=flat-square)
-![Collaborations](https://img.shields.io/badge/Collaborations-AI%2FML_Projects-3FB950?style=flat-square)
-![Research](https://img.shields.io/badge/Research-IA_G%C3%A9n%C3%A9rative_%26_LLMs-D2A8FF?style=flat-square)
-![Consulting](https://img.shields.io/badge/Consulting-ML%2FAI_Solutions-F78166?style=flat-square)
-
-<br/>
-
-**Langues**
-
-![Français](https://img.shields.io/badge/Français-C1_Professionnel-0A66C2?style=flat-square)
-![Anglais](https://img.shields.io/badge/Anglais-B2%2B_Technique-3FB950?style=flat-square)
-![Arabe](https://img.shields.io/badge/Arabe-Courant-E3B341?style=flat-square)
-![Tamazight](https://img.shields.io/badge/Tamazight-Natif-D2A8FF?style=flat-square)
-
 <br/>
 
 > *"Code • Train • Deploy • Repeat"*
